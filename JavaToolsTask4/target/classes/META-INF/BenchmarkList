@@ -1,0 +1,2 @@
+JMH S 23 guava.GuavaCacheService S 55 guava.generated.GuavaCacheService_useGuavaCache_jmhTest S 13 useGuavaCache S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 1 E E E E E E E E E E E E 
+JMH S 26 benchmark.BenchmarkService S 49 benchmark.generated.BenchmarkService_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E I 1 3 E E E T 3 1 s E E E E E E E E E E E 
