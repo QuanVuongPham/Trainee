@@ -1,0 +1,1223 @@
+<!doctype html>
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.osite.cssrg/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+ <!--<![endif]-->
+ <head> 
+  <meta http-equiv="x-dns-prefetch-control" content="on"> 
+  <link rel="dns-prefetch" href="//vcdn.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//icdn.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//cdnweb.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//cdndulich.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//cdnduhoc.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//cdnmobile.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//webapi.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//captcha.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//comment.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//cdn.jwplayer.com"> 
+  <link rel="dns-prefetch" href="//www.googletagmanager.com"> 
+  <link rel="dns-prefetch" href="//media1.admicro.vn"> 
+  <link rel="dns-prefetch" href="//logsbin.dantri.com.vn"> 
+  <link rel="dns-prefetch" href="//www.google-analytics.com"> 
+  <link rel="dns-prefetch" href="//www.googletagmanager.com"> 
+  <script>
+    window.wDataLayer = {"platform":"web","page_type":"home","item_id":"null","cate_id":"null","cate_list":"null","sub_cates":"null","author_id":"null","published_date":"null"};
+</script> 
+  <script async src="//logsbin.dantri.com.vn/scripts/web/dantri_com_vn.js"></script> 
+  <title>Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h | Báo Dân trí</title> 
+  <meta name="description" content="Tin tức, sự kiện Việt Nam và quốc tế nhanh, chính xác và cập nhật mới online 24h /7: Xã hội, Pháp luật, Kinh doanh, Giải trí, Thể thao, Đời sống, Sức khỏe, Giáo dục, Công nghệ, Văn hóa, Ôtô, Xe máy, Tình yêu, Giới tính, Nhịp sống trẻ, Chuyện lạ, Blog, Nhân ái, Bạn đọc, Việc làm, dân trí, dantri"> 
+  <meta name="keywords" content="Dân trí, dantri, Việt Nam, Vietnam, net, báo, điện tử, vn, express, news, online, báo mạng, trực tuyến, tin tức, sự kiện, mới, nóng, nhanh, hot, video, clip, thời sự, xã hội, đời sống, quốc tế, thế giới, blog, pháp luật, vụ án, lao động, việc làm, kinh tế, kinh doanh, thể thao, bóng đá, tennis, văn hóa, giải trí, showbiz, sao Việt, tình yêu, giới tính, gia đình, chuyện lạ, xe, teen, tư vấn, giao lưu, công nghệ, di động, du học, tuyển sinh, du lịch, nhân ái, từ thiện, iphone, youtube, Trung Quốc, Mỹ, biển Đông"> 
+  <meta name="title" content="Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h"> 
+  <meta name="robots" content="index,follow,all"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-title" content="dantri.com.vn"> 
+  <meta name="copyright" content="dantri.com.vn"> 
+  <meta name="author" content="dantri.com.vn"> 
+  <!-- Schema.org markup for Google+ --> 
+  <meta name="google-site-verification" content="W60o5FIiNTC4qM0e14lVCrmQOH7MDm2jy50E3fvvTHs"> 
+  <meta itemprop="name" content="Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h"> 
+  <meta itemprop="image" content=""> 
+  <!-- Twitter Card data --> 
+  <meta name="twitter:card" content="article"> 
+  <meta name="twitter:site" content="Báo điện tử Dân Trí"> 
+  <meta name="twitter:title" content="Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h"> 
+  <meta name="twitter:description" content="Tin tức, sự kiện Việt Nam và quốc tế nhanh, chính xác và cập nhật mới online 24h /7: Xã hội, Pháp luật, Kinh doanh, Giải trí, Thể thao, Đời sống, Sức khỏe, Giáo dục, Công nghệ, Văn hóa, Ôtô, Xe máy, Tình yêu, Giới tính, Nhịp sống trẻ, Chuyện lạ, Blog, Nhân ái, Bạn đọc, Việc làm, dân trí, dantri"> 
+  <meta name="twitter:creator" content="dantri.com.vn"> 
+  <meta name="twitter:image" content=""> 
+  <!-- Open Graph data --> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:site_name" content="Báo điện tử Dân Trí"> 
+  <meta property="og:title" content="Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h"> 
+  <meta property="og:url" content="https://dantri.com.vn/"> 
+  <meta property="og:image" content=""> 
+  <meta property="og:description" content="Tin tức, sự kiện Việt Nam và quốc tế nhanh, chính xác và cập nhật mới online 24h /7: Xã hội, Pháp luật, Kinh doanh, Giải trí, Thể thao, Đời sống, Sức khỏe, Giáo dục, Công nghệ, Văn hóa, Ôtô, Xe máy, Tình yêu, Giới tính, Nhịp sống trẻ, Chuyện lạ, Blog, Nhân ái, Bạn đọc, Việc làm, dân trí, dantri"> 
+  <meta property="og:locale" content="vi_VN"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image:secure_url" content=""> 
+  <meta property="fb:app_id" content="164035690775918"> 
+  <meta name="resource-type" content="Document"> 
+  <meta name="distribution" content="Global"> 
+  <meta property="fb:pages" content="345033318906366"> 
+  <meta property="article:author" content="https://www.facebook.com/baodantridientu"> 
+  <meta property="article:publisher" content="https://www.facebook.com/baodantridientu"> 
+  <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="audience" content="General"> 
+  <meta http-equiv="content-language" content="vi"> 
+  <meta http-equiv="REFRESH" content="1800"> 
+  <meta name="revisit-after" content="1 days"> 
+  <link rel="canonical" href="https://dantri.com.vn/"> 
+  <link rel="alternate" href="https://m.dantri.com.vn/"> 
+  <link rel="stylesheet" type="text/css" href="https://cdnweb.dantri.com.vn/bundle/css/site.min.css?v=0715143418"> 
+  <script>var jsSettings={"ImageDomain":"https://icdn.dantri.com.vn","VideoDomain":"https://vcdn.dantri.com.vn","AudioDomain":"https://acdn.dantri.com.vn","CommentsDomain":"https://comment.dantri.com.vn","ApiComments":"https://apicomment.dantri.com.vn","DuLichDomain":"https://dulich.dantri.com.vn","TuyenSinhDomain":"https://tuyensinh.dantri.com.vn","DuHocDomain":"https://duhoc.dantri.com.vn","WebDomain":"https://dantri.com.vn","MobileDomain":"https://m.dantri.com.vn","CaptchaDomain":"https://captcha.dantri.com.vn","WebApi":"https://webapi.dantri.com.vn","AssertsDomain":"https://cdnweb.dantri.com.vn","ResourceDomains":["https://*.dantri.com.vn/**","http://*.dantri.com.vn/**"],"CurrentDomain":"https://dantri.com.vn","IsMobile":0,"UngHoDomain":"https://ungho.dantri.com.vn","FacebookAppId":"164035690775918","IsAmp":0,"Version":"636989020567897047"};</script> 
+  <script>
+        var _ADM_Channel = '%2Fhome%2F';
+        var currentDomain = "https://dantri.com.vn";
+    </script> 
+  <script type="text/javascript">
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+    </script> 
+  <script type="text/javascript">
+        var appSettings = {"domain":"https://dantri.com.vn","imageDomain":"https://dantri.com.vn","videoImageDomain":"","allowVietId":false,"allowFacebook":true,"urlExtension":".htm"};
+    </script> 
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif|Noto+serief|Lora|Roboto|Roboto+Condensed" as="style"> 
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif|Noto+serief|Lora|Roboto|Roboto+Condensed"> 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.trim%2CURL%2ClocalStorage%2Cfetch%2CIntersectionObserver"></script> 
+  <script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register("/sw.js").then(function (registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                // resolve();
+            }, function (err) {
+                // registration failed :(
+                
+                console.error('ServiceWorker registration failed: ',err.message);
+            });
+        });
+    }
+</script> 
+  <script src="https://cdnweb.dantri.com.vn/templates.js"></script> 
+  <script type="text/javascript" src="https://cdnweb.dantri.com.vn/bundle/js/layout.min.js?v=0715143418"></script> 
+  <link href="https://amp.dantri.com.vn" rel="amphtml"> 
+  <!-- Global site tag (gtag.js) - Google Analytics --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132316672-2"></script> 
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-132316672-2');
+</script> 
+  <!-- Google Tag Manager --> 
+  <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NKJWWZZ');
+    </script> 
+  <!-- End Google Tag Manager --> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKJWWZZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <script type="text/javascript">
+    var _jsCbArr = [];
+    var jsCallback = {
+        push: function (name, body) {
+            _jsCbArr[name] = body;
+        },
+        exec: function (name, args) {
+            if (typeof _jsCbArr[name] == "function") {
+                try {
+                    _jsCbArr[name](args);
+                } catch (e) {
+                    return;
+                }
+            }
+        }
+    };
+
+    (function () {
+        try {
+            //check session on client
+            if (typeof (Storage) !== "undefined") {
+                var session = sessionStorage.getItem("VisitSession");
+                if (session == null) {
+                    //phien lam viec moi
+                    sessionStorage.setItem("VisitSession", "1");
+
+                    var hash = window.location.hash;
+                    if (hash == "#first") {
+                        //link được redirect từ bản mobile sang thì clear hash.
+                        window.history.replaceState("", "", window.location.href.split('#')[0]);
+                    } else {
+                        //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                        var setCookie = function (a, c, f) {
+                            var e = new Date();
+                            e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                            var b = "expires=" + e.toUTCString();
+                            document.cookie = a + "=" + c + "; " + b;
+                        };
+                        setCookie("browser", "", -1);
+                        //reload lại trang để hệ thống chuyển về bản mobile.
+                        if (navigator.userAgent.match(
+                            /(iPhone|iPod|iPad|Android|BlackBerry|Windows Phone|webOS)/i) !=
+                            null) {
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            console.log("Lỗi check mobile redirect: " + e);
+        }
+    })();
+</script> 
+  <script type="text/javascript" class="lazy" data-original="https://apis.google.com/js/plusone.js"></script> 
+  <div class="header tet"> 
+   <div class="clearfix relative"> 
+    <h1><a href="/" class="xlogo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"> <img src="https://cdnweb.dantri.com.vn/images/logo.png" alt="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"> </a></h1> 
+    <div id="div_gdpda" class="div_gdpda"> 
+     <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a> 
+    </div> 
+    <div id="searchbox" class="searchbox hidden"> 
+     <div class="clearfix"> 
+      <div style="width:215px;height:22px;float:left;overflow:hidden;margin-left: 2px;"> 
+       <p id="txtData" data-elementtype="searchtextv2" contenteditable="true" style="width:119px;display: block; white-space: nowrap;"></p> 
+      </div> 
+      <span class="btn" data-elementtype="searchbuttonv2">Tìm kiếm</span> 
+     </div> 
+    </div> 
+    <div class="links"> 
+     <a title="Bất động sản" class="icon-bds" href="/bat-dong-san.htm">Bất động sản<img class="icon-newblink blink_me" src="https://cdnweb.dantri.com.vn/images/icon_new.gif"></a> 
+     <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> 
+     <a title="Blog" class="icon-ads" href="/blog.htm">Blog</a> 
+     <a title="Du học" class="icon-duhoc" href="https://duhoc.dantri.com.vn" target="_blank">Du học</a> 
+     <a title="Tuyển sinh" class="icon-tuyensinh" href="https://tuyensinh.dantri.com.vn" target="_blank">Tuyển sinh</a> 
+     <a title="Fica" rel="nofollow" class="icon-tuanbao2" href="http://fica.vn/" target="_blank" style="background: url('https://cdnweb.dantri.com.vn/images/icon_fica_new2.png') no-repeat;text-indent: 30px !important">Fica</a> 
+     <a title="Bạn đọc" class="icon-bandoc" href="/ban-doc.htm">Bạn đọc</a> 
+     <a title="Báo in" class="icon-bussiness" href="http://dtinews.vn/bao-in/dan-tri.pdf" target="_blank" rel="nofollow" style="background: url('https://cdnweb.dantri.com.vn/images/icon_bao-in2.png') no-repeat; text-indent: 45px;">Báo in</a> 
+     <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a>
+     <a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a> 
+     <a title="Chuyện lạ" class="icon-chuyenla" href="/chuyen-la.htm">Chuyện lạ</a> 
+     <a title="English" class="icon-tienganh" href="http://www.dtinews.vn" target="_blank">English</a> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/lazyscript">
+
+        var editableDiv = document.getElementById('txtData');
+    function handlepaste (e) {
+        var types, pastedData, savedContent;
+
+        // Browsers that support the 'text/html' type in the Clipboard API (Chrome, Firefox 22+)
+        if (e && e.clipboardData && e.clipboardData.types && e.clipboardData.getData) {
+
+            // Check for 'text/html' in types list. See abligh's answer below for deatils on
+            // why the DOMStringList bit is needed. We cannot fall back to 'text/plain' as
+            // Safari/Edge don't advertise HTML data even if it is available
+            types = e.clipboardData.types;
+            if (((types instanceof DOMStringList) && types.contains("text/html")) || (types.indexOf && types.indexOf('text/html') !== -1)) {
+
+                // Extract data and pass it to callback
+                pastedData = e.clipboardData.getData('text/html');
+                processPaste(editableDiv, pastedData);
+
+                // Stop the data from actually being pasted
+                e.stopPropagation();
+                e.preventDefault();
+                return false;
+            }
+        }
+
+        // Everything else: Move existing element contents to a DocumentFragment for safekeeping
+        savedContent = document.createDocumentFragment();
+        while(editableDiv.childNodes.length > 0) {
+            savedContent.appendChild(editableDiv.childNodes[0]);
+        }
+
+        // Then wait for browser to paste content into it and cleanup
+        waitForPastedData(editableDiv, savedContent);
+        return true;
+    }
+
+    function waitForPastedData (elem, savedContent) {
+
+        // If data has been processes by browser, process it
+        if (elem.childNodes && elem.childNodes.length > 0) {
+
+            // Retrieve pasted content via innerHTML
+            // (Alternatively loop through elem.childNodes or elem.getElementsByTagName here)
+            var pastedData = elem.innerHTML;
+
+            // Restore saved content
+            elem.innerHTML = "";
+            elem.appendChild(savedContent);
+
+            // Call callback
+            processPaste(elem, pastedData);
+        }
+
+        // Else wait 20ms and try again
+        else {
+            setTimeout(function () {
+                waitForPastedData(elem, savedContent)
+            }, 20);
+        }
+    }
+
+    function processPaste (elem, pastedData) {
+        // Do whatever with gathered data;
+        //alert(pastedData);
+        var filteredText=convertHtmlToText(pastedData);
+        console.log(filteredText);
+        var a=filteredText.replace(/\s\s+/g, ' ');
+        console.log(a);
+        editableDiv.innerText=a;
+        elem.focus();
+    }
+
+    // Modern browsers. Note: 3rd argument is required for Firefox <= 6
+    if (editableDiv.addEventListener) {
+        editableDiv.addEventListener('paste', handlepaste, false);
+    }
+    // IE <= 8
+    else {
+        editableDiv.attachEvent('onpaste', handlepaste);
+    }
+
+        $('[data-elementtype=searchbuttonv2]').click(function () {
+            var strSearch = $('[data-elementtype=searchtextv2]').text();//$('[data-elementtype=searchtextv2]').val();
+            strSearch=convertHtmlToText(strSearch);
+            strSearch = encodeURIComponent(strSearch);
+            if (strSearch != '') {
+                var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+                if (document.all) {
+                    window.location.href = url;
+                } else {
+                    document.location.href = url;
+                }
+            } else {
+                $('[data-elementtype=searchtextv2]').focus();
+            }
+            return false;
+        });
+
+        $('[data-elementtype=searchtextv2]').keypress(function (event) {
+            var key;
+            if (window.event) {
+                key = window.event.keyCode;
+            } else {
+                key = event.which;
+            }
+            if (key == 13) {
+                $('[data-elementtype=searchbuttonv2]').click();
+                return false;
+            }
+        });
+        $("#searchbox").removeClass('hidden').show();
+</script> 
+  <div class="top-ads clearfix"> 
+   <div class=" mgauto wid980"> 
+    <div id="admzone221"></div> 
+    <script async>admicroAD.unit.push(function () { admicroAD.show('admzone221') });</script> 
+   </div> 
+  </div> 
+  <style>
+    .subnav ul li {
+        padding-right: 8px;
+    }
+</style> 
+  <div class="nav-wrap"> 
+   <div class="clearfix"> 
+    <div class="mgauto wid1004"> 
+     <ul class="nav"> 
+      <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li> 
+      <li><a title="Video" href="/video-page.htm"><span>Video</span></a></li> 
+      <li><a title="Sự kiện" href="/su-kien.htm"><span>Sự kiện</span></a></li> 
+      <li><a title="Xã hội" href="/xa-hoi.htm"><span>Xã hội</span></a></li> 
+      <li><a title="Thế giới" href="/the-gioi.htm"><span>Thế giới</span></a></li> 
+      <li><a title="Thể thao" href="/the-thao.htm"><span>Thể thao</span></a></li> 
+      <li><a title="Giáo dục" href="/giao-duc-khuyen-hoc.htm"><span>Giáo dục</span></a> </li> 
+      <li><a title="Tấm lòng nhân ái" href="/tam-long-nhan-ai.htm"><span>Nhân ái</span></a></li> 
+      <li><a title="Kinh doanh" href="/kinh-doanh.htm"><span>Kinh doanh</span></a></li> 
+      <li><a title="Bất động sản" href="/bat-dong-san.htm"><span>Bất động sản</span></a></li> 
+      <li><a title="Văn hóa" href="/van-hoa.htm"><span>Văn hóa</span></a></li> 
+      <li><a title="Giải trí" href="/giai-tri.htm"><span>Giải trí</span></a></li> 
+      <li><a title="Du lịch" target="_blank" href="https://dulich.dantri.com.vn"><span>Du lịch</span></a></li> 
+      <li><a title="Pháp luật" href="/phap-luat.htm"><span>Pháp luật</span></a></li> 
+      <li><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm"><span>Nhịp sống trẻ</span></a></li> 
+      <li><a title="Sức khỏe" href="/suc-khoe.htm"><span>Sức khỏe</span></a></li> 
+      <li><a title="Sức mạnh số" href="/suc-manh-so.htm"><span>Sức mạnh số</span></a></li> 
+      <li><a title="Ô tô - xe máy" href="/o-to-xe-may.htm"><span>Xe++</span></a></li> 
+      <li><a title="Tình yêu giới tính" href="/tinh-yeu-gioi-tinh.htm"><span>Tình yêu</span></a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="subnav relative"> 
+    <ul class="clearfix" id="ul_submenu"> 
+     <li class="active"><a href="/event.htm" class="event" title="Danh sách sự kiện"></a></li> 
+     <li><a href="/event/ky-thi-thpt-quoc-gia-2019-3673.htm" title="Kỳ thi THPT quốc gia 2019">Kỳ thi THPT quốc gia 2019</a></li> 
+     <li><a href="/event/de-xuat-lam-dsct-bac-nam-tiet-kiem-32-ty-usd-3689.htm" title="Tranh cãi đường sắt cao tốc Bắc Nam">Tranh cãi đường sắt cao tốc Bắc Nam</a></li> 
+     <li><a href="/event/big-c-ngung-nhap-hang-may-mac-viet-3687.htm" title="Big C ngừng nhập hàng may mặc Việt">Big C ngừng nhập hàng may mặc Việt</a></li> 
+     <li><a href="/event/thi-lop-10-nam-2019-3668.htm" title="Thi lớp 10 năm 2019">Thi lớp 10 năm 2019</a></li> 
+     <li><a href="/event/thanh-tra-xay-dung-voi-tien-chuc-ty-3674.htm" title="Thanh tra Bộ Xây dựng &quot;vòi tiền&quot;">Thanh tra Bộ Xây dựng "vòi tiền"</a></li> 
+     <li><a href="/event/con-bao-so-2-3686.htm" title="Cơn bão số 2">Cơn bão số 2</a></li> 
+     <li><a href="/event/ky-hop-thu-7-quoc-hoi-khoa-xiv-3662.htm" title="Kỳ họp thứ 7 Quốc hội khóa XIV">Kỳ họp thứ 7 Quốc hội khóa XIV</a></li> 
+     <li><a href="/event/50-nam-thuc-hien-di-chuc-bac-ho-3660.htm" title="50 năm thực hiện di chúc Bác Hồ">50 năm thực hiện di chúc Bác Hồ</a></li> 
+     <li><a href="/event/60-nam-duong-truong-son-3651.htm" title="60 năm đường Trường Sơn">60 năm đường Trường Sơn</a></li> 
+     <li><a href="/event/dai-le-phat-dan-vesak-2019-3656.htm" title="Đại lễ Phật đản Vesak 2019">Đại lễ Phật đản Vesak 2019</a></li> 
+    </ul> 
+    <div class="hidden"> 
+    </div> 
+    <div class="subSideBtn"> 
+     <div class="submenu-btnside"> 
+      <a title="Bạn đọc" href="/dien-dan.htm">Diễn đàn</a> 
+     </div> 
+     <div class="submenu-btnside"> 
+      <a title="Việc làm" href="/viec-lam.htm">Việc làm</a> 
+     </div> 
+    </div> 
+    <div class="top-rss-wrapper"> 
+     <a title="Rss" class="icon-rss2" ref="nofollow" href="/rss.htm"></a> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="wrapper"> 
+   <div class="container"> 
+    <script type="text/lazyscript">
+            $("html").addClass("homepage");
+        </script> 
+    <div class="box1 clearfix"> 
+     <div class="fl wid620"> 
+      <div class="clearfix box27"> 
+       <div class="fl wid335 mheight"> 
+        <div id="todaydate" class="datetime"> 
+        </div> 
+        <div data-boxtype="homenewsposition" class="fl wid335 noibattrangchu"> 
+         <a href="/giao-duc-khuyen-hoc/nhin-lai-du-lieu-diem-3-nam-thi-thpt-quoc-gia-nhieu-van-de-phai-ban-20190717064019573.htm" title="Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn"> <img title="Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn" alt="Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn" onload="t_image = new Date().getTime();" src="https://icdn.dantri.com.vn/zoom/327_245//2019/07/17/xep-hang-3-nam-1563320170268.jpg"> </a> 
+         <script>t_after_image = new Date().getTime();</script> 
+         <span class="h2text"> <a href="/giao-duc-khuyen-hoc/nhin-lai-du-lieu-diem-3-nam-thi-thpt-quoc-gia-nhieu-van-de-phai-ban-20190717064019573.htm" title="Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn" class="fon1 mt2" data-newstype="0" data-linktype="newsdetail" data-id="20190717064019573">Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn</a> </span> 
+         <p class="mt2 fon2 nbtcsapo"> <span>(Dân trí)</span>&nbsp;- Từ nguồn số liệu điểm thi của Bộ GD&amp;ĐT, qua tổng kết 3 năm điểm thi THPT quốc gia cho thấy rất nhiều biến động, nhiều con số trái ngược nhau, nhiều vấn đề phải bàn. <br> <a href="/giao-duc-khuyen-hoc/pho-diem-thi-thpt-quoc-gia-2019-du-dep-de-cac-truong-dh-xet-tuyen-20190714122845522.htm" title="Phổ điểm thi THPT quốc gia 2019 đủ “đẹp” để các trường ĐH xét tuyển"> <b>&gt;&gt;Phổ điểm thi THPT quốc gia 2019 đủ “đẹp” để các trường ĐH xét tuyển</b> </a> <br> <a href="/giao-duc-khuyen-hoc/pho-diem-tot-nghiep-thpt-quoc-gia-2018-cua-thi-sinh-ca-nuoc-deu-5-va-duoi-5-20180711175716002.htm" title="Phổ điểm thi THPT quốc gia 2018 của thí sinh cả nước: Nhiều môn dưới 5"> <b>&gt;&gt;Phổ điểm thi THPT quốc gia 2018 của thí sinh cả nước: Nhiều môn dưới 5</b> </a> <br> <a href="/giao-duc-khuyen-hoc/pho-diem-thi-thpt-quoc-gia-khoi-aa1bcd-nam-2017-20170707162149434.htm" title="Phổ điểm thi THPT quốc gia khối A,A1,B,C,D năm 2017"> <b>&gt;&gt;Phổ điểm thi THPT quốc gia khối A,A1,B,C,D năm 2017</b> </a> </p> 
+        </div> 
+       </div> 
+       <div class="fr wid268 box2"> 
+        <p class="hotline"> Đường dây nóng: <span>0973 567 567 - 0974 567 567</span> </p> 
+        <div class="ads-nbtt" dt-slot="fica-3-0"> 
+         <div class="10-face" style="margin-right: 3px;"> 
+         </div> 
+        </div> 
+        <div class="icon-event fon3"> 
+         <a href="/su-kien.htm" title="Tin tức - Sự kiện">Tin tức - Sự kiện</a> 
+        </div> 
+        <div class="clear"> 
+        </div> 
+        <div class="xnano" nano-scroll> 
+         <div class="xnano-content"> 
+          <ul class="ul1 ulnew"> 
+           <li data-boxtype="homenewsposition" data-posid="20190717071821184" data-locked="false"> <h4> <a href="/suc-khoe/cong-bo-nghien-cuu-lon-nhat-ve-bo-gen-cua-nguoi-viet-nhieu-bat-ngo-lon-20190717071821184.htm" title="Công bố nghiên cứu lớn nhất về bộ gen của người Việt: Nhiều bất ngờ lớn" data-newstype="0" data-linktype="newsdetail" data-id="20190717071821184"> Công bố nghiên cứu lớn nhất về bộ gen của người Việt: Nhiều bất ngờ lớn </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190716114349436" data-locked="false"> <h4> <a href="/the-thao/co-hay-khong-song-ngam-o-vff-truoc-khi-chon-pho-chu-tich-tai-chinh-20190716114349436.htm" title="Có hay không “sóng ngầm” ở VFF trước khi chọn Phó chủ tịch tài chính?" data-newstype="0" data-linktype="newsdetail" data-id="20190716114349436"> Có hay không “sóng ngầm” ở VFF trước khi chọn Phó chủ tịch tài chính? </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717071941741" data-locked="false"> <h4> <a href="https://dulich.dantri.com.vn/du-lich/ha-long-thuyen-vien-tau-du-lich-duc-lo-nha-tam-quay-len-du-khach-20190717071941741.htm" target="_blank" title="Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách" data-newstype="0" data-linktype="newsdetail" data-id="20190717071941741"> Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190716221424124" data-locked="false"> <h4> <a href="/xa-hoi/duong-8-lan-xe-noi-3-quan-noi-thanh-ha-noi-20190716221424124.htm" title="Đường 8 làn xe nối 3 quận nội thành Hà Nội" data-newstype="7" data-linktype="newsdetail" data-id="20190716221424124"> Đường 8 làn xe nối 3 quận nội thành Hà Nội </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717073549780" data-locked="false"> <h4> <a href="/xa-hoi/ha-noi-xa-nuoc-cuon-troi-ket-qua-thi-nghiem-bang-cong-nghe-nhat-o-song-to-lich-20190717073549780.htm" title="Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch" data-newstype="0" data-linktype="newsdetail" data-id="20190717073549780"> Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190716181026229" data-locked="false"> <h4> <a href="/giao-duc-khuyen-hoc/nu-sinh-bo-thi-de-chiu-tang-bo-duoc-dac-cach-tot-nghiep-20190716181026229.htm" title="Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp" data-newstype="0" data-linktype="newsdetail" data-id="20190716181026229"> Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717000418396" data-locked="false"> <h4> <a href="/viec-lam/tinh-yeu-cua-vo-chong-u-90-trong-quan-sua-xe-o-quang-tri-20190717000418396.htm" title="Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị" data-newstype="0" data-linktype="newsdetail" data-id="20190717000418396"> Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717000758537" data-locked="false"> <h4> <a href="/suc-khoe/be-gai-3-tuoi-chet-tuc-tuoi-tai-benh-vien-nhi-dong-2-20190717000758537.htm" title="Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2" data-newstype="3" data-linktype="newsdetail" data-id="20190717000758537"> Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2 </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717064813864" data-locked="false"> <h4> <a href="/doi-song/canh-dia-nguc-cua-nhung-thieu-nu-bi-ban-vao-nha-chua-o-bangladesh-20190717064813864.htm" title="Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh" data-newstype="0" data-linktype="newsdetail" data-id="20190717064813864"> Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh </a> </h4> </li> 
+           <li data-boxtype="homenewsposition" data-posid="20190717053819879" data-locked="false"> <h4> <a href="/kinh-doanh/xe-sang-10-nam-tuoi-tam-gia-tu-600-trieu-dong-hut-khach-viet-20190717053819879.htm" title="Xe sang 10 năm tuổi tầm giá từ 600 triệu đồng hút khách Việt" data-newstype="0" data-linktype="newsdetail" data-id="20190717053819879"> Xe sang 10 năm tuổi tầm giá từ 600 triệu đồng hút khách Việt </a> </h4> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="box3 clearfix mb2" id="box3baitiep"> 
+       <div data-boxtype="homenewsposition" class="fl wid200 mr1"> 
+        <a href="/doi-song/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-20190717064602516.htm" title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội"> <img title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" alt="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" src="https://icdn.dantri.com.vn/zoom/94_79//2019/07/17/gg-1563320513656.gif"> </a> 
+        <div class="fl wid93"> 
+         <h3> <a href="/doi-song/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-20190717064602516.htm" title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" class="fon4" data-newstype="2" data-linktype="newsdetail" data-id="20190717064602516">Lạ lùng những quán ăn "chửi khách như tát nước" chỉ có ở Hà Nội</a> </h3> 
+        </div> 
+       </div> 
+       <div data-boxtype="homenewsposition" class="fl wid200 mr1"> 
+        <a href="/the-thao/vi-sao-thai-lan-xem-doi-tuyen-viet-nam-la-doi-thu-de-tho-20190716225603950.htm" title="Vì sao Thái Lan xem đội tuyển Việt Nam là đối thủ “dễ thở”?"> <img title="Vì sao Thái Lan xem đội tuyển Việt Nam là đối thủ “dễ thở”?" alt="Vì sao Thái Lan xem đội tuyển Việt Nam là đối thủ “dễ thở”?" src="https://icdn.dantri.com.vn/zoom/94_79//2019/06/05/dtvn-thai-35619-1559747763012.jpg"> </a> 
+        <div class="fl wid93"> 
+         <h3> <a href="/the-thao/vi-sao-thai-lan-xem-doi-tuyen-viet-nam-la-doi-thu-de-tho-20190716225603950.htm" title="Vì sao Thái Lan xem đội tuyển Việt Nam là đối thủ “dễ thở”?" class="fon4" data-newstype="0" data-linktype="newsdetail" data-id="20190716225603950">Vì sao Thái Lan xem đội tuyển Việt Nam là đối thủ “dễ thở”?</a> </h3> 
+        </div> 
+       </div> 
+       <div data-boxtype="homenewsposition" class="fl wid200 mr1"> 
+        <a href="/blog/mot-quyet-dinh-nhan-van-va-sang-suot-20190717021446911.htm" title="Một quyết định nhân văn và sáng suốt"> <img title="Một quyết định nhân văn và sáng suốt" alt="Một quyết định nhân văn và sáng suốt" src="https://icdn.dantri.com.vn/zoom/94_79//2019/07/17/hocsinhngheo-1563304367722.jpg"> </a> 
+        <div class="fl wid93"> 
+         <h3> <a href="/blog/mot-quyet-dinh-nhan-van-va-sang-suot-20190717021446911.htm" title="Một quyết định nhân văn và sáng suốt" class="fon4" data-newstype="0" data-linktype="newsdetail" data-id="20190717021446911">Một quyết định nhân văn và sáng suốt</a> </h3> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="fr wid360 pt5"> 
+      <div id="hotbanner_outter" class="pdl8"> 
+       <div id="admzone222"></div> 
+       <script async>admicroAD.unit.push(function () { admicroAD.show('admzone222') });</script> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clearfix"> 
+     <div id="admzone223"></div> 
+     <script async>admicroAD.unit.push(function () { admicroAD.show('admzone223') });</script> 
+     <div class="line1 mt2"> 
+     </div> 
+     <div class="clearfix"> 
+      <div class="fl wid470"> 
+       <div data-zoneid="20" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/xa-hoi/chinh-tri.htm" title="Chính trị">Chính trị</a></span></li> 
+          <li> <span class="h3text"> <a href="/xa-hoi/phong-su-ky-su.htm" title="Phóng sự-Ký sự">Phóng sự-Ký sự</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/xa-hoi/moi-truong.htm" title="Môi trường">Môi trường</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/xa-hoi/ha-noi-xa-nuoc-cuon-troi-ket-qua-thi-nghiem-bang-cong-nghe-nhat-o-song-to-lich-20190717073549780.htm" title="Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch"> <img title="Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch" alt="Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/12/sha-5456-1562912336050.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/xa-hoi/ha-noi-xa-nuoc-cuon-troi-ket-qua-thi-nghiem-bang-cong-nghe-nhat-o-song-to-lich-20190717073549780.htm" title="Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717073549780">Hà Nội xả nước cuốn trôi kết quả thí nghiệm bằng công nghệ Nhật ở sông Tô Lịch</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Chuyên gia Nhật Bản cho rằng, việc Hà Nội xả hơn 1 triệu m3 nước từ Hồ Tây vào sông Tô Lịch tại khu vực đầu nguồn - nơi thí điểm xử lý ô nhiễm bằng công nghệ Nhật Bản đã cuốn toàn bộ kết quả thí nghiệm trong 2 tháng qua. 
+           <br> 
+           <a href="/xa-hoi/co-the-hoi-sinh-song-to-lich-bat-chap-hang-tram-nghin-m-3-nuoc-thai-do-vao-moi-ngay-20190517015312756.htm" title="Có thể &quot;hồi sinh&quot; sông Tô Lịch bất chấp hàng trăm nghìn m3 nước thải đổ vào mỗi ngày?"> <b>&gt;&gt; Có thể "hồi sinh" sông Tô Lịch bất chấp hàng trăm nghìn m3 nước thải đổ vào mỗi ngày?</b> </a> 
+           <br> 
+           <a href="/xa-hoi/bom-nuoc-ho-tay-vao-co-lam-sach-duoc-song-to-lich-20190713023008694.htm" title="Bơm nước Hồ Tây vào có làm sạch được sông Tô Lịch?"> <b>&gt;&gt; Bơm nước Hồ Tây vào có làm sạch được sông Tô Lịch?</b> </a> 
+           <br> 
+           <a href="/xa-hoi/nuoc-ho-tay-giam-o-nhiem-khi-duoc-xu-ly-bang-cong-nghe-nhat-ban-20190714154040166.htm" title="Nước Hồ Tây giảm ô nhiễm khi được xử lý bằng công nghệ Nhật Bản"> <b>&gt;&gt; Nước Hồ Tây giảm ô nhiễm khi được xử lý bằng công nghệ Nhật Bản</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/xa-hoi/ha-noi-xa-nuoc-cuon-troi-ket-qua-thi-nghiem-bang-cong-nghe-nhat-o-song-to-lich-20190717073549780.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/xa-hoi/bao-danas-giat-cap-10-huong-vao-bien-dong-20190717082800984.htm" title="Bão Danas giật cấp 10 hướng vào Biển Đông" data-newstype="0" data-linktype="newsdetail" data-id="20190717082800984">Bão Danas giật cấp 10 hướng vào Biển Đông</a></li> 
+         <li><a href="/xa-hoi/nong-quy-dinh-tang-gio-lam-them-giam-gio-lam-cho-nguoi-lao-dong-20190716234839282.htm" title="&quot;Nóng&quot; quy định tăng giờ làm thêm, giảm giờ làm cho người lao động" data-newstype="0" data-linktype="newsdetail" data-id="20190716234839282">"Nóng" quy định tăng giờ làm thêm, giảm giờ làm cho người lao động</a></li> 
+         <li><a href="/xa-hoi/bat-dau-thanh-tra-quan-ly-dat-dai-khai-thac-tai-nguyen-khoang-san-o-thai-nguyen-20190717064519163.htm" title="Bắt đầu thanh tra quản lý đất đai, khai thác tài nguyên khoáng sản ở Thái Nguyên" data-newstype="0" data-linktype="newsdetail" data-id="20190717064519163">Bắt đầu thanh tra quản lý đất đai, khai thác tài nguyên khoáng sản ở Thái Nguyên</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="36" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/the-gioi.htm" title="Thế giới">Thế giới</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/the-gioi/chau-a.htm" title="Châu Á">Châu Á</a></span></li> 
+          <li> <span class="h3text"> <a href="/the-gioi/eu-nga.htm" title="EU &amp; Nga">EU &amp; Nga</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/the-gioi/chau-my.htm" title="Châu Mỹ">Châu Mỹ</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/the-gioi/uy-ban-chau-au-ec-co-nu-tuong-dau-tien-trong-lich-su-20190717074934374.htm" title="Ủy ban châu Âu EC có “nữ tướng” đầu tiên trong lịch sử"> <img title="Ủy ban châu Âu EC có “nữ tướng” đầu tiên trong lịch sử" alt="Ủy ban châu Âu EC có “nữ tướng” đầu tiên trong lịch sử" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/4928-1563326123617.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/the-gioi/uy-ban-chau-au-ec-co-nu-tuong-dau-tien-trong-lich-su-20190717074934374.htm" title="Ủy ban châu Âu EC có “nữ tướng” đầu tiên trong lịch sử" class="fon6" data-newstype="2" data-linktype="newsdetail" data-id="20190717074934374">Ủy ban châu Âu EC có “nữ tướng” đầu tiên trong lịch sử</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Bà Ursula von der Leyen, người Đức, đã đắc cử chủ tịch Ủy ban châu Âu (EC) và sẽ trở thành người phụ nữ đầu tiên nắm giữ cương vị này. 
+           <br> 
+           <a href="/the-gioi/eu-nhat-tri-lui-thoi-han-ra-di-cua-anh-sau-cuoc-hop-khan-20190411074830072.htm" title="EU nhất trí lùi thời hạn “ra đi” của Anh sau cuộc họp khẩn"> <b>&gt;&gt; EU nhất trí lùi thời hạn “ra đi” của Anh sau cuộc họp khẩn</b> </a> 
+           <br> 
+           <a href="/the-gioi/chu-tich-eu-dot-ngot-dung-phat-bieu-de-nghe-dien-thoai-cua-vo-20190226195502595.htm" title="Chủ tịch EU đột ngột dừng phát biểu để nghe điện thoại của vợ"> <b>&gt;&gt; Chủ tịch EU đột ngột dừng phát biểu để nghe điện thoại của vợ</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/the-gioi/uy-ban-chau-au-ec-co-nu-tuong-dau-tien-trong-lich-su-20190717074934374.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/the-gioi/nga-khai-hoa-ten-lua-hanh-trinh-sieu-am-uy-luc-tren-bien-nhat-ban-20190716205329707.htm" title="Nga khai hỏa tên lửa hành trình siêu âm uy lực trên biển Nhật Bản" data-newstype="2" data-linktype="newsdetail" data-id="20190716205329707">Nga khai hỏa tên lửa hành trình siêu âm uy lực trên biển Nhật Bản</a></li> 
+         <li><a href="/the-gioi/trieu-tien-noi-my-pha-vo-tinh-than-dam-phan-doa-thu-hat-nhan-tro-lai-20190717071216638.htm" title="Triều Tiên nói Mỹ phá vỡ tinh thần đàm phán, dọa thử hạt nhân trở lại" data-newstype="0" data-linktype="newsdetail" data-id="20190717071216638">Triều Tiên nói Mỹ phá vỡ tinh thần đàm phán, dọa thử hạt nhân trở lại</a></li> 
+         <li><a href="/the-gioi/iran-bi-nghi-bat-tau-cho-dau-mat-tich-tai-eo-bien-hormuz-20190717070458220.htm" title="Iran bị nghi bắt tàu chở dầu “mất tích” tại eo biển Hormuz" data-newstype="0" data-linktype="newsdetail" data-id="20190717070458220">Iran bị nghi bắt tàu chở dầu “mất tích” tại eo biển Hormuz</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="26" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/the-thao.htm" title="Thể thao">Thể thao</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/the-thao/the-thao-trong-nuoc.htm" title="Thể thao trong nước">Thể thao trong nước</a></span></li> 
+          <li> <span class="h3text"> <a href="/the-thao/the-thao-quoc-te.htm" title="Thể thao quốc tế">Thể thao quốc tế</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/the-thao/bong-da-trong-nuoc.htm" title="Bóng đá trong nước">Bóng đá trong nước</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/the-thao/dai-chien-giua-ha-noi-va-ha-gia-lai-se-nong-hon-sau-cau-noi-5-danh-1-20190716184914813.htm" title="Đại chiến giữa Hà Nội và HA Gia Lai sẽ nóng hơn sau câu nói “5 đánh 1”?"> <img title="Đại chiến giữa Hà Nội và HA Gia Lai sẽ nóng hơn sau câu nói “5 đánh 1”?" alt="Đại chiến giữa Hà Nội và HA Gia Lai sẽ nóng hơn sau câu nói “5 đánh 1”?" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/07/hagl-17719-1562501770669.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/the-thao/dai-chien-giua-ha-noi-va-ha-gia-lai-se-nong-hon-sau-cau-noi-5-danh-1-20190716184914813.htm" title="Đại chiến giữa Hà Nội và HA Gia Lai sẽ nóng hơn sau câu nói “5 đánh 1”?" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716184914813">Đại chiến giữa Hà Nội và HA Gia Lai sẽ nóng hơn sau câu nói “5 đánh 1”?</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Cặp đấu giữa HA Gia Lai của bầu Đức gặp CLB Hà Nội của bầu Hiển bình thường đã gây chú ý bởi đó là màn đọ tài của dàn sao tuyển thủ quốc gia, nay còn có thêm gia vị, sau phát biểu về tình trạng “5 đánh 1” tại V-League mà bầu Đức “đá xoáy” bầu Hiển. 
+           <br> 
+           <a href="/the-thao/hlv-ha-noi-bi-treo-quyen-chi-dao-truoc-tran-gap-ha-gia-lai-20190716122244213.htm" title="HLV Hà Nội bị treo quyền chỉ đạo trước trận gặp HA Gia Lai"> <b>&gt;&gt; HLV Hà Nội bị treo quyền chỉ đạo trước trận gặp HA Gia Lai</b> </a> 
+           <br> 
+           <a href="/the-thao/dai-chien-clb-ha-noi-ha-gia-lai-xuan-truong-da-cap-cung-tuan-anh-20190716011216383.htm" title="Đại chiến CLB Hà Nội - HA Gia Lai: Xuân Trường đá cặp cùng Tuấn Anh"> <b>&gt;&gt; Đại chiến CLB Hà Nội - HA Gia Lai: Xuân Trường đá cặp cùng Tuấn Anh</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/the-thao/dai-chien-giua-ha-noi-va-ha-gia-lai-se-nong-hon-sau-cau-noi-5-danh-1-20190716184914813.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/the-thao/solskjaer-muon-mang-den-cho-pogba-thach-thuc-moi-20190717082442180.htm" title="Solskjaer muốn mang đến cho Pogba “thách thức mới”" data-newstype="0" data-linktype="newsdetail" data-id="20190717082442180">Solskjaer muốn mang đến cho Pogba “thách thức mới”</a></li> 
+         <li><a href="/the-thao/ong-tran-quoc-tuan-dam-nhiem-vi-tri-chu-tich-uy-ban-thi-dau-afc-20190717003403243.htm" title="Ông Trần Quốc Tuấn đảm nhiệm vị trí Chủ tịch Ủy ban thi đấu AFC" data-newstype="0" data-linktype="newsdetail" data-id="20190717003403243">Ông Trần Quốc Tuấn đảm nhiệm vị trí Chủ tịch Ủy ban thi đấu AFC</a></li> 
+         <li><a href="/the-thao/co-hay-khong-song-ngam-o-vff-truoc-khi-chon-pho-chu-tich-tai-chinh-20190716114349436.htm" title="Có hay không “sóng ngầm” ở VFF trước khi chọn Phó chủ tịch tài chính?" data-newstype="0" data-linktype="newsdetail" data-id="20190716114349436">Có hay không “sóng ngầm” ở VFF trước khi chọn Phó chủ tịch tài chính?</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="25" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục - Khuyến học">Giáo dục - Khuyến học</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/giao-duc-khuyen-hoc/tin-tuyen-sinh.htm" title="Tin tuyển sinh">Tin tuyển sinh</a></span></li> 
+          <li> <span class="h3text"> <a href="/giao-duc-khuyen-hoc/khuyen-hoc.htm" title="Khuyến học">Khuyến học</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/giao-duc-khuyen-hoc/guong-sang.htm" title="Gương sáng">Gương sáng</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/giao-duc-khuyen-hoc/nu-sinh-bo-thi-de-chiu-tang-bo-duoc-dac-cach-tot-nghiep-20190716181026229.htm" title="Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp"> <img title="Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp" alt="Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp" src="https://icdn.dantri.com.vn/zoom/130_100//2019/06/27/1-1561606696131.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/giao-duc-khuyen-hoc/nu-sinh-bo-thi-de-chiu-tang-bo-duoc-dac-cach-tot-nghiep-20190716181026229.htm" title="Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716181026229">Nữ sinh bỏ thi để chịu tang bố được đặc cách tốt nghiệp</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Chiều ngày 16/7, Sở GD&amp;ĐT Hà Tĩnh cho biết, em Nguyễn Diệu Linh (học sinh lớp 12, Trường THPT Phúc Trạch, huyện Hương Khê) bỏ dở kỳ thi vì bố mất đột ngột đã được đặc cách tốt nghiệp THPT. 
+           <br> 
+           <a href="/giao-duc-khuyen-hoc/lam-ho-so-xet-dac-cach-tot-nghiep-cho-nu-sinh-bo-do-thi-chiu-tang-bo-20190627133238059.htm" title="Làm hồ sơ xét đặc cách tốt nghiệp cho nữ sinh bỏ dở thi chịu tang bố"> <b>&gt;&gt; Làm hồ sơ xét đặc cách tốt nghiệp cho nữ sinh bỏ dở thi chịu tang bố</b> </a> 
+           <br> 
+           <a href="/giao-duc-khuyen-hoc/bo-tu-vong-khi-kiem-ca-cho-con-an-de-thi-con-bo-thi-ve-chiu-tang-bo-20190627104338505.htm" title="Bố tử vong khi kiếm cá cho con ăn để thi, con bỏ thi về chịu tang bố"> <b>&gt;&gt; Bố tử vong khi kiếm cá cho con ăn để thi, con bỏ thi về chịu tang bố</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/giao-duc-khuyen-hoc/nu-sinh-bo-thi-de-chiu-tang-bo-duoc-dac-cach-tot-nghiep-20190716181026229.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/giao-duc-khuyen-hoc/truong-dh-bach-khoa-ha-noi-diem-chuan-chinh-thuc-co-giam-so-voi-du-bao-ban-dau-20190717071919215.htm" title="Trường ĐH Bách khoa Hà Nội: Điểm chuẩn chính thức có giảm so với dự báo ban đầu?" data-newstype="0" data-linktype="newsdetail" data-id="20190717071919215">Trường ĐH Bách khoa Hà Nội: Điểm chuẩn chính thức có giảm so với dự báo ban đầu?</a></li> 
+         <li><a href="/nhip-song-tre/3-nha-vo-dich-olympia-co-diem-thi-thpt-thua-suc-do-dh-top-dau-20190716173349492.htm" title="3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu" data-newstype="0" data-linktype="newsdetail" data-id="20190716173349492">3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/truong-dh-cong-nghe-gtvt-diem-chuan-nam-2019-du-kien-tu-145-18-diem-20190717065005190.htm" title="Trường ĐH Công nghệ GTVT: Điểm chuẩn năm 2019 dự kiến từ 14,5 - 18 điểm" data-newstype="0" data-linktype="newsdetail" data-id="20190717065005190">Trường ĐH Công nghệ GTVT: Điểm chuẩn năm 2019 dự kiến từ 14,5 - 18 điểm</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="167" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/tam-long-nhan-ai.htm" title="Tấm lòng nhân ái">Tấm lòng nhân ái</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/tam-long-nhan-ai/danh-sach-ung-ho.htm" title="Danh sách ủng hộ">Danh sách ủng hộ</a></span></li> 
+          <li> <span class="h3text"> <a href="/tam-long-nhan-ai/danh-sach-ket-chuyen.htm" title="Danh sách kết chuyển">Danh sách kết chuyển</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/tam-long-nhan-ai/hoan-canh.htm" title="Hoàn cảnh">Hoàn cảnh</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/tam-long-nhan-ai/cu-ba-gan-dat-xa-troi-co-cuc-dut-cho-chau-trai-trong-benh-tung-thia-chao-20190714211922303.htm" title="Cụ bà &quot;gần đất xa trời&quot; cơ cực đút cho cháu trai trọng bệnh từng thìa cháo!"> <img title="Cụ bà &quot;gần đất xa trời&quot; cơ cực đút cho cháu trai trọng bệnh từng thìa cháo!" alt="Cụ bà &quot;gần đất xa trời&quot; cơ cực đút cho cháu trai trọng bệnh từng thìa cháo!" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/14/anh-1-1563113632016.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/tam-long-nhan-ai/cu-ba-gan-dat-xa-troi-co-cuc-dut-cho-chau-trai-trong-benh-tung-thia-chao-20190714211922303.htm" title="Cụ bà &quot;gần đất xa trời&quot; cơ cực đút cho cháu trai trọng bệnh từng thìa cháo!" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190714211922303">Cụ bà "gần đất xa trời" cơ cực đút cho cháu trai trọng bệnh từng thìa cháo!</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Ở tuổi "gần đất xa trời" nhưng cụ bà vẫn phải đút từng thìa cơm, thìa cháo cho đứa cháu trai trọng bệnh nằm một chỗ. Cảnh làm thuê cứ ráo mồ hôi là hết tiền, giờ thằng cháu đổ trọng bệnh, bà đã 81 tuổi rồi, lấy đâu tiền cứu cháu. 
+          </div> 
+          <a class="icon-detail fon7" href="/tam-long-nhan-ai/cu-ba-gan-dat-xa-troi-co-cuc-dut-cho-chau-trai-trong-benh-tung-thia-chao-20190714211922303.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/tam-long-nhan-ai/ban-doc-bao-dan-tri-ung-ho-thieu-nu-dan-toc-hre-mac-benh-ung-thu-mau-42-trieu-dong-20190716115340153.htm" title="Bạn đọc báo Dân trí ủng hộ thiếu nữ dân tộc Hre mắc bệnh ung thư máu 42 triệu đồng" data-newstype="0" data-linktype="newsdetail" data-id="20190716115340153">Bạn đọc báo Dân trí ủng hộ thiếu nữ dân tộc Hre mắc bệnh ung thư máu 42 triệu đồng</a></li> 
+         <li><a href="/tam-long-nhan-ai/nu-sinh-bo-thi-tot-nghiep-chiu-tang-cha-xuc-dong-duoc-nhieu-truong-dai-hoc-tiep-nhan-20190715184123284.htm" title="Nữ sinh bỏ thi tốt nghiệp chịu tang cha xúc động được nhiều trường đại học tiếp nhận" data-newstype="0" data-linktype="newsdetail" data-id="20190715184123284">Nữ sinh bỏ thi tốt nghiệp chịu tang cha xúc động được nhiều trường đại học tiếp nhận</a></li> 
+         <li><a href="/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-4-thang-62019-20190716061958200.htm" title="Thông báo kết chuyển Nhân ái tuần 4 tháng 6/2019" data-newstype="0" data-linktype="newsdetail" data-id="20190716061958200">Thông báo kết chuyển Nhân ái tuần 4 tháng 6/2019</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div class="wp980" style="margin-left: -10px;
+                                      display: flex;
+                                      /* left: 0; */
+                                      /* float: none; */
+                                      position: inherit;"> 
+        <div class="boxvideonews" style="width: 480px;"> 
+         <a href="/video-page.htm" title="Video" style="left: 0;" class="sprite fl titletop"></a> 
+         <ul style="margin-top: 25px;"> 
+          <li class="top"> <a href="/video/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-103462.htm" title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội"> <img title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" alt="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" src="https://icdn.dantri.com.vn/zoom/228_165//2019/07/17/bun-mang-chao-chui-1563323598660.jpg"> </a> <h3> <a href="/video/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-103462.htm" title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội">Lạ lùng những quán ăn "chửi khách như tát nước" chỉ có ở Hà Nội</a> </h3><a href="/video/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-103462.htm" class="ionplay sprite fl"></a> </li> 
+          <li class="normal"><a href="/video/duong-8-lan-xe-noi-3-quan-noi-thanh-ha-noi-103459.htm" title="Đường 8 làn xe nối 3 quận nội thành Hà Nội"><img title="Đường 8 làn xe nối 3 quận nội thành Hà Nội" alt="Đường 8 làn xe nối 3 quận nội thành Hà Nội" src="https://icdn.dantri.com.vn/zoom/100_70//thumb-video/2019/07/16/duong-nguyen-van-huyen-keo-dai-1563291778540/0_00_00.jpg"></a><h3><a href="/video/duong-8-lan-xe-noi-3-quan-noi-thanh-ha-noi-103459.htm" title="Đường 8 làn xe nối 3 quận nội thành Hà Nội">Đường 8 làn xe nối 3 quận nội thành Hà Nội</a></h3> <a href="/video/duong-8-lan-xe-noi-3-quan-noi-thanh-ha-noi-103459.htm" class="ionplay sprite fl"></a></li> 
+          <li class="normal"><a href="/video/nu-sinh-thu-khoa-khoi-a-chia-se-ve-bi-quyet-hoc-103426.htm" title="Nữ sinh thủ khoa khối A chia sẻ về bí quyết học"><img title="Nữ sinh thủ khoa khối A chia sẻ về bí quyết học" alt="Nữ sinh thủ khoa khối A chia sẻ về bí quyết học" src="https://icdn.dantri.com.vn/zoom/100_70//thumb-video/2019/07/16/720-p-5-1563245257015/0_02_17.jpg"></a><h3><a href="/video/nu-sinh-thu-khoa-khoi-a-chia-se-ve-bi-quyet-hoc-103426.htm" title="Nữ sinh thủ khoa khối A chia sẻ về bí quyết học">Nữ sinh thủ khoa khối A chia sẻ về bí quyết học</a></h3> <a href="/video/nu-sinh-thu-khoa-khoi-a-chia-se-ve-bi-quyet-hoc-103426.htm" class="ionplay sprite fl"></a></li> 
+          <li class="normal"><a href="/video/may-bay-ha-canh-sat-dau-nhom-du-khach-me-song-ao-o-hy-lap-103452.htm" title="Máy bay hạ cánh sát đầu nhóm du khách mê “sống ảo” ở Hy Lạp"><img title="Máy bay hạ cánh sát đầu nhóm du khách mê “sống ảo” ở Hy Lạp" alt="Máy bay hạ cánh sát đầu nhóm du khách mê “sống ảo” ở Hy Lạp" src="https://icdn.dantri.com.vn/zoom/100_70//thumb-video/2019/07/16/skiathos-2019-lowest-lawwwdownvidsnet-000000000402-1563280328638/0_02_01.jpg"></a><h3><a href="/video/may-bay-ha-canh-sat-dau-nhom-du-khach-me-song-ao-o-hy-lap-103452.htm" title="Máy bay hạ cánh sát đầu nhóm du khách mê “sống ảo” ở Hy Lạp">Máy bay hạ cánh sát đầu nhóm du khách mê “sống ảo” ở Hy Lạp</a></h3> <a href="/video/may-bay-ha-canh-sat-dau-nhom-du-khach-me-song-ao-o-hy-lap-103452.htm" class="ionplay sprite fl"></a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="clear" style=""></div> 
+       <div data-zoneid="76" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/kinh-doanh/tai-chinh-dau-tu.htm" title="Tài chính - Đầu tư">Tài chính - Đầu tư</a></span></li> 
+          <li> <span class="h3text"> <a href="/kinh-doanh/thi-truong.htm" title="Thị trường">Thị trường</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/kinh-doanh/doanh-nghiep.htm" title="Doanh nghiệp">Doanh nghiệp</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/kinh-doanh/soi-khoan-dau-tu-nguy-co-thua-lo-hang-chuc-ty-dong-cua-dai-gia-bao-hiem-pti-20190717082256815.htm" title="“Soi” khoản đầu tư nguy cơ thua lỗ hàng chục tỷ đồng của “đại gia” bảo hiểm PTI"> <img title="“Soi” khoản đầu tư nguy cơ thua lỗ hàng chục tỷ đồng của “đại gia” bảo hiểm PTI" alt="“Soi” khoản đầu tư nguy cơ thua lỗ hàng chục tỷ đồng của “đại gia” bảo hiểm PTI" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/baohiemptivnf-1563326484363.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/kinh-doanh/soi-khoan-dau-tu-nguy-co-thua-lo-hang-chuc-ty-dong-cua-dai-gia-bao-hiem-pti-20190717082256815.htm" title="“Soi” khoản đầu tư nguy cơ thua lỗ hàng chục tỷ đồng của “đại gia” bảo hiểm PTI" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717082256815">“Soi” khoản đầu tư nguy cơ thua lỗ hàng chục tỷ đồng của “đại gia” bảo hiểm PTI</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Báo cáo Kiểm toán Nhà nước chỉ ra nhiều tồn tại trong các khoản đầu tư tài chính, đầu tư bất động sản của doanh nghiệp bảo hiểm PTI. 
+           <br> 
+           <a href="/kinh-doanh/vinalines-bao-lo-luy-ke-xap-xi-3000-ty-dong-truoc-them-hop-dai-hoi-dong-co-dong-lan-dau-20190621140426572.htm" title="Vinalines báo lỗ luỹ kế xấp xỉ 3.000 tỷ đồng trước thềm họp đại hội đồng cổ đông lần đầu"> <b>&gt;&gt; Vinalines báo lỗ luỹ kế xấp xỉ 3.000 tỷ đồng trước thềm họp đại hội đồng cổ đông lần đầu</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/kinh-doanh/soi-khoan-dau-tu-nguy-co-thua-lo-hang-chuc-ty-dong-cua-dai-gia-bao-hiem-pti-20190717082256815.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/kinh-doanh/qua-may-man-nguoi-dan-ong-trung-2-lan-xo-so-doc-dac-tri-gia-bac-ty-chi-trong-18-thang-20190717061356597.htm" title="Quá may mắn: Người đàn ông trúng 2 lần xổ số độc đắc trị giá bạc tỷ chỉ trong 18 tháng" data-newstype="0" data-linktype="newsdetail" data-id="20190717061356597">Quá may mắn: Người đàn ông trúng 2 lần xổ số độc đắc trị giá bạc tỷ chỉ trong 18 tháng</a></li> 
+         <li><a href="/kinh-doanh/xe-sang-10-nam-tuoi-tam-gia-tu-600-trieu-dong-hut-khach-viet-20190717053819879.htm" title="Xe sang 10 năm tuổi tầm giá từ 600 triệu đồng hút khách Việt" data-newstype="0" data-linktype="newsdetail" data-id="20190717053819879">Xe sang 10 năm tuổi tầm giá từ 600 triệu đồng hút khách Việt</a></li> 
+         <li><a href="/kinh-doanh/chu-tich-hdnd-tinh-truy-giam-doc-so-tai-nguyen-va-moi-truong-ve-gia-cat-xay-dung-20190716181735484.htm" title="Chủ tịch HĐND tỉnh truy Giám đốc Sở Tài nguyên và Môi trường về giá cát xây dựng" data-newstype="0" data-linktype="newsdetail" data-id="20190716181735484">Chủ tịch HĐND tỉnh truy Giám đốc Sở Tài nguyên và Môi trường về giá cát xây dựng</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="927" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/bat-dong-san.htm" title="Bất động sản">Bất động sản</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/bat-dong-san/du-an.htm" title="Dự án">Dự án</a></span></li> 
+          <li> <span class="h3text"> <a href="/bat-dong-san/thi-truong.htm" title="Thị trường">Thị trường</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/bat-dong-san/nhip-song-do-thi.htm" title="Nhịp sống đô thị">Nhịp sống đô thị</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/bat-dong-san/vach-loat-sai-pham-tai-du-an-ho-bien-nha-thu-nhap-thap-thanh-biet-thu-20190717065604749.htm" title="Vạch loạt sai phạm tại dự án “hô biến” nhà thu nhập thấp thành biệt thự"> <img title="Vạch loạt sai phạm tại dự án “hô biến” nhà thu nhập thấp thành biệt thự" alt="Vạch loạt sai phạm tại dự án “hô biến” nhà thu nhập thấp thành biệt thự" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/the-diamond-1563320519923.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/bat-dong-san/vach-loat-sai-pham-tai-du-an-ho-bien-nha-thu-nhap-thap-thanh-biet-thu-20190717065604749.htm" title="Vạch loạt sai phạm tại dự án “hô biến” nhà thu nhập thấp thành biệt thự" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717065604749">Vạch loạt sai phạm tại dự án “hô biến” nhà thu nhập thấp thành biệt thự</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Hà Nội vừa báo cáo Thủ tướng kết quả thanh tra toàn diện khu nhà ở cho người thu nhập thấp The Diamond Park tại huyện Mê Linh... 
+          </div> 
+          <a class="icon-detail fon7" href="/bat-dong-san/vach-loat-sai-pham-tai-du-an-ho-bien-nha-thu-nhap-thap-thanh-biet-thu-20190717065604749.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/bat-dong-san/danh-10-nam-de-bien-ngoi-nha-binh-thuong-cua-minh-thanh-mot-cung-dien-mau-hong-voi-gia-cho-thue-70-trieu-dong-moi-dem-20190716233939326.htm" title="Dành 10 năm để biến ngôi nhà bình thường của mình thành một cung điện màu hồng với giá cho thuê 70 triệu đồng mỗi đêm" data-newstype="0" data-linktype="newsdetail" data-id="20190716233939326">Dành 10 năm để biến ngôi nhà bình thường của mình thành một cung điện màu hồng với giá cho thuê 70 triệu đồng mỗi đêm</a></li> 
+         <li><a href="/bat-dong-san/bot-giat-lix-thoai-von-khoi-lien-doanh-so-huu-khu-dat-vang-233-nguyen-trai-20190716133525335.htm" title="Bột giặt LIX thoái vốn khỏi liên doanh sở hữu khu đất &quot;vàng&quot; 233 Nguyễn Trãi" data-newstype="0" data-linktype="newsdetail" data-id="20190716133525335">Bột giặt LIX thoái vốn khỏi liên doanh sở hữu khu đất "vàng" 233 Nguyễn Trãi</a></li> 
+         <li><a href="/bat-dong-san/gioi-tre-chat-vat-mua-nha-20190717060703884.htm" title="Giới trẻ chật vật mua nhà" data-newstype="0" data-linktype="newsdetail" data-id="20190717060703884">Giới trẻ chật vật mua nhà</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="730" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/van-hoa/doi-song-van-hoa.htm" title="Đời sống văn hóa">Đời sống văn hóa</a></span></li> 
+          <li> <span class="h3text"> <a href="/van-hoa/san-khau-dan-gian.htm" title="Sân khấu - Dân gian">Sân khấu - Dân gian</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/van-hoa/hat-giong-tam-hon.htm" title="Hạt giống tâm hồn">Hạt giống tâm hồn</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/van-hoa/choang-ngop-truoc-ve-dep-ky-dieu-cua-thien-nhien-20190716201948411.htm" title="Choáng ngợp trước vẻ đẹp kỳ diệu của thiên nhiên"> <img title="Choáng ngợp trước vẻ đẹp kỳ diệu của thiên nhiên" alt="Choáng ngợp trước vẻ đẹp kỳ diệu của thiên nhiên" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/ezgifcomoptimize-1563283152647.gif"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/van-hoa/choang-ngop-truoc-ve-dep-ky-dieu-cua-thien-nhien-20190716201948411.htm" title="Choáng ngợp trước vẻ đẹp kỳ diệu của thiên nhiên" class="fon6" data-newstype="2" data-linktype="newsdetail" data-id="20190716201948411">Choáng ngợp trước vẻ đẹp kỳ diệu của thiên nhiên</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Các thợ lặn đã sửng sốt khi bắt gặp một chú sứa biển khổng lồ, đoạn clip được ghi lại đã gây choáng ngợp. 
+          </div> 
+          <a class="icon-detail fon7" href="/van-hoa/choang-ngop-truoc-ve-dep-ky-dieu-cua-thien-nhien-20190716201948411.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/van-hoa/cuoc-chien-vu-than-dong-dat-viet-lai-tiep-dien-20190716153704543.htm" title="“Cuộc chiến” vụ Thần đồng Đất Việt lại tiếp diễn" data-newstype="0" data-linktype="newsdetail" data-id="20190716153704543">“Cuộc chiến” vụ Thần đồng Đất Việt lại tiếp diễn</a></li> 
+         <li><a href="/van-hoa/ngoc-anh-3-a-tiet-lo-ly-do-yeu-sau-dam-chong-tay-20190716223256858.htm" title="Ngọc Anh 3A tiết lộ lý do yêu sâu đậm chồng Tây" data-newstype="0" data-linktype="newsdetail" data-id="20190716223256858">Ngọc Anh 3A tiết lộ lý do yêu sâu đậm chồng Tây</a></li> 
+         <li><a href="/van-hoa/kate-winslet-dau-long-khi-biet-ngay-truoc-gia-dinh-minh-tung-rat-ngheo-kho-20190716204216744.htm" title="Kate Winslet đau lòng khi biết ngày trước gia đình mình từng rất nghèo khổ" data-newstype="3" data-linktype="newsdetail" data-id="20190716204216744">Kate Winslet đau lòng khi biết ngày trước gia đình mình từng rất nghèo khổ</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="23" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/giai-tri.htm" title="Giải trí">Giải trí</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/giai-tri/sao-viet.htm" title="Sao Việt">Sao Việt</a></span></li> 
+          <li> <span class="h3text"> <a href="/giai-tri/hollywood.htm" title="Hollywood">Hollywood</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/giai-tri/chau-a.htm" title="Châu Á">Châu Á</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/giai-tri/ca-si-dinh-huong-goi-thanh-huong-la-mot-vien-ngoc-tho-qua-dep-20190717000625852.htm" title="Ca sĩ Đinh Hương gọi Thanh Hương là một viên ngọc thô quá đẹp"> <img title="Ca sĩ Đinh Hương gọi Thanh Hương là một viên ngọc thô quá đẹp" alt="Ca sĩ Đinh Hương gọi Thanh Hương là một viên ngọc thô quá đẹp" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/dinhhuong-1563296472942.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/giai-tri/ca-si-dinh-huong-goi-thanh-huong-la-mot-vien-ngoc-tho-qua-dep-20190717000625852.htm" title="Ca sĩ Đinh Hương gọi Thanh Hương là một viên ngọc thô quá đẹp" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717000625852">Ca sĩ Đinh Hương gọi Thanh Hương là một viên ngọc thô quá đẹp</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Khi nói về diễn viên Thanh Hương cũng là học trò đã đăng quang ngôi vị Quán quân tại gameshow “Trời sinh một cặp”, Đinh Hương chia sẻ: “Tôi thấy mình may mắn vì Thanh Hương vốn dĩ đã là một viên ngọc thô quá đẹp về ngoại hình lẫn giọng hát mà tôi vô tình có được”. 
+          </div> 
+          <a class="icon-detail fon7" href="/giai-tri/ca-si-dinh-huong-goi-thanh-huong-la-mot-vien-ngoc-tho-qua-dep-20190717000625852.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/giai-tri/helen-flanagan-gai-hai-con-van-thon-tha-quyen-ru-20190716182226479.htm" title="Helen Flanagan - Gái hai con vẫn thon thả, quyến rũ" data-newstype="0" data-linktype="newsdetail" data-id="20190716182226479">Helen Flanagan - Gái hai con vẫn thon thả, quyến rũ</a></li> 
+         <li><a href="/giai-tri/joy-corrigan-khoe-nguc-nay-no-20190716220738857.htm" title="Joy Corrigan khoe ngực nảy nở" data-newstype="0" data-linktype="newsdetail" data-id="20190716220738857">Joy Corrigan khoe ngực nảy nở</a></li> 
+         <li><a href="/giai-tri/ban-gai-hotgirl-cua-doan-van-hau-dien-bikini-khoe-duong-cong-nong-bong-20190717081913239.htm" title="Bạn gái hotgirl của Đoàn Văn Hậu diện bikini khoe đường cong nóng bỏng" data-newstype="0" data-linktype="newsdetail" data-id="20190717081913239">Bạn gái hotgirl của Đoàn Văn Hậu diện bikini khoe đường cong nóng bỏng</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="835" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="https://dulich.dantri.com.vn" target="_blank" title="Du Lịch">Du Lịch</a> </span> </li> 
+          <li> <span class="h3text"> <a href="https://dulich.dantri.com.vn/du-lich/vong-quay-du-lich.htm" target="_blank" title="Vòng quay du lịch">Vòng quay du lịch</a></span></li> 
+          <li> <span class="h3text"> <a href="https://dulich.dantri.com.vn/du-lich/kham-pha.htm" target="_blank" title="Khám phá">Khám phá</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="https://dulich.dantri.com.vn/du-lich/mon-ngon-diem-dep.htm" target="_blank" title="Món ngon - Điểm đẹp">Món ngon - Điểm đẹp</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="https://dulich.dantri.com.vn/du-lich/ha-long-thuyen-vien-tau-du-lich-duc-lo-nha-tam-quay-len-du-khach-20190717071941741.htm" target="_blank" title="Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách"> <img title="Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách" alt="Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/df-6-b-368-f-88526-c-0-c-3543-1563256681829.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="https://dulich.dantri.com.vn/du-lich/ha-long-thuyen-vien-tau-du-lich-duc-lo-nha-tam-quay-len-du-khach-20190717071941741.htm" target="_blank" title="Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717071941741">Hạ Long: Thuyền viên tàu du lịch đục lỗ nhà tắm quay lén du khách</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Trong biên bản làm việc với cơ quan điều tra, thuyền viên T.V.H (35 tuổi, thuyền viên tàu Hùng Long 66 QN-6096) khai nhận, đã dùng điện thoại, chĩa qua khe lỗ đục trên nóc nhà vệ sinh của tàu quay phim, chụp ảnh mọi người trong đoàn khách du lịch tắm tráng. 
+           <br> 
+           <a href="https://dulich.dantri.com.vn/du-lich/bi-khach-to-dung-dien-thoai-quay-len-khi-tam-chu-tau-du-lich-o-ha-long-noi-gi-20190716130256037.htm" target="_blank" title="Bị khách &quot;tố&quot; dùng điện thoại quay lén khi tắm, chủ tàu du lịch ở Hạ Long nói gì?"> <b>&gt;&gt; Bị khách "tố" dùng điện thoại quay lén khi tắm, chủ tàu du lịch ở Hạ Long nói gì?</b> </a> 
+           <br> 
+           <a href="https://dulich.dantri.com.vn/du-lich/thuyen-vien-quay-len-du-khach-tam-trang-tau-du-lich-ha-long-bi-dinh-chi-hoat-dong-20190715181949135.htm" target="_blank" title="Thuyền viên quay lén du khách tắm tráng, tàu du lịch Hạ Long bị đình chỉ hoạt động"> <b>&gt;&gt; Thuyền viên quay lén du khách tắm tráng, tàu du lịch Hạ Long bị đình chỉ hoạt động</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="https://dulich.dantri.com.vn/du-lich/ha-long-thuyen-vien-tau-du-lich-duc-lo-nha-tam-quay-len-du-khach-20190717071941741.htm" target="_blank" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="https://dulich.dantri.com.vn/du-lich/nguoc-dong-con-song-danh-lua-mat-nguoi-nhin-20190716201032411.htm" target="_blank" title="Ngược dòng con sông &quot;đánh lừa&quot; mắt người nhìn" data-newstype="0" data-linktype="newsdetail" data-id="20190716201032411">Ngược dòng con sông "đánh lừa" mắt người nhìn</a></li> 
+         <li><a href="https://dulich.dantri.com.vn/du-lich/tuong-phat-dai-100-m-tac-tren-ruong-bac-thang-20190716170216980.htm" target="_blank" title="Tượng Phật dài 100m “tạc” trên ruộng bậc thang" data-newstype="0" data-linktype="newsdetail" data-id="20190716170216980">Tượng Phật dài 100m “tạc” trên ruộng bậc thang</a></li> 
+         <li><a href="https://dulich.dantri.com.vn/du-lich/ngo-ngang-voi-nhung-con-duong-danh-cho-xe-dap-dep-nhat-the-gioi-20190715181218041.htm" target="_blank" title="Ngỡ ngàng với những con đường dành cho xe đạp đẹp nhất thế giới!" data-newstype="0" data-linktype="newsdetail" data-id="20190715181218041">Ngỡ ngàng với những con đường dành cho xe đạp đẹp nhất thế giới!</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="170" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> </span> </li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/phap-luat/bat-lam-le-trum-duong-day-danh-bac-2600-ti-dong-20190717074418008.htm" title="Bắt Lâm &quot;le&quot; - trùm đường dây đánh bạc 2.600 tỉ đồng"> <img title="Bắt Lâm &quot;le&quot; - trùm đường dây đánh bạc 2.600 tỉ đồng" alt="Bắt Lâm &quot;le&quot; - trùm đường dây đánh bạc 2.600 tỉ đồng" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/bat-lam-le-trum-duong-day-danh-bac-2600-ti-dong-3-1563324064299.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/phap-luat/bat-lam-le-trum-duong-day-danh-bac-2600-ti-dong-20190717074418008.htm" title="Bắt Lâm &quot;le&quot; - trùm đường dây đánh bạc 2.600 tỉ đồng" class="fon6" data-newstype="7" data-linktype="newsdetail" data-id="20190717074418008">Bắt Lâm "le" - trùm đường dây đánh bạc 2.600 tỉ đồng</a></h4> 
+          <div class="fon5">
+            Đường dây đánh bạc 2.600 tỉ đồng qua mạng do Lâm "le" cầm đầu vừa được&nbsp;triệt phá tại Khánh Hòa. 
+          </div> 
+          <a class="icon-detail fon7" href="/phap-luat/bat-lam-le-trum-duong-day-danh-bac-2600-ti-dong-20190717074418008.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/phap-luat/bat-nghi-can-cuop-tien-danh-gay-tay-be-trai-ban-ve-so-20190716213022644.htm" title="Bắt nghi can cướp tiền, đánh gãy tay bé trai bán vé số" data-newstype="0" data-linktype="newsdetail" data-id="20190716213022644">Bắt nghi can cướp tiền, đánh gãy tay bé trai bán vé số</a></li> 
+         <li><a href="/phap-luat/truy-to-cuu-cong-an-phuong-trom-sung-mang-ban-20190716181004128.htm" title="Truy tố cựu công an phường trộm súng mang bán" data-newstype="0" data-linktype="newsdetail" data-id="20190716181004128">Truy tố cựu công an phường trộm súng mang bán</a></li> 
+         <li><a href="/phap-luat/canh-bac-tram-trieu-nup-bong-cau-ca-giai-tri-20190716175848600.htm" title="Canh bạc trăm triệu núp bóng câu cá giải trí" data-newstype="0" data-linktype="newsdetail" data-id="20190716175848600">Canh bạc trăm triệu núp bóng câu cá giải trí</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="135" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/nhip-song-tre/nguoi-viet-tre.htm" title="Người Việt trẻ">Người Việt trẻ</a></span></li> 
+          <li> <span class="h3text"> <a href="/nhip-song-tre/teen-dep.htm" title="Teen đẹp">Teen đẹp</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/nhip-song-tre/phong-su-tre.htm" title="Phóng sự trẻ">Phóng sự trẻ</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/nhip-song-tre/3-nha-vo-dich-olympia-co-diem-thi-thpt-thua-suc-do-dh-top-dau-20190716173349492.htm" title="3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu"> <img title="3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu" alt="3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/a-1563272908997.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/nhip-song-tre/3-nha-vo-dich-olympia-co-diem-thi-thpt-thua-suc-do-dh-top-dau-20190716173349492.htm" title="3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716173349492">3 nhà vô địch Olympia có điểm thi THPT thừa sức đỗ ĐH tốp đầu</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Dù quyết định đi du học, điểm thi THPT quốc gia của các nhà vô địch Olympia vẫn thừa sức đỗ vào trường đại học tốp đầu ở trong nước. Đó là kết quả thi của Văn Viết Đức, Phan Đăng Nhật Minh và Nguyễn Hoàng Cường. 
+           <br> 
+           <a href="/nhip-song-tre/quan-quan-olympia-2018-co-57-mon-thi-thpt-quoc-gia-tren-9-diem-20190716094848195.htm" title="Quán quân Olympia 2018 có 5/7 môn thi THPT quốc gia trên 9 điểm"> <b>&gt;&gt; Quán quân Olympia 2018 có 5/7 môn thi THPT quốc gia trên 9 điểm</b> </a> 
+           <br> 
+           <a href="/nhip-song-tre/rot-nuoc-mat-cau-chuyen-ve-cau-be-nang-135-kg-thi-luc-0-luc-ra-doi-vua-tot-nghiep-thpt-20190714125244005.htm" title="Rớt nước mắt câu chuyện về cậu bé nặng 1,35 kg, thị lực 0% lúc ra đời vừa tốt nghiệp THPT"> <b>&gt;&gt; Rớt nước mắt câu chuyện về cậu bé nặng 1,35 kg, thị lực 0% lúc ra đời vừa tốt nghiệp THPT</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/nhip-song-tre/3-nha-vo-dich-olympia-co-diem-thi-thpt-thua-suc-do-dh-top-dau-20190716173349492.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/nhip-song-tre/bi-thu-tu-doan-tham-tang-qua-doi-hinh-tinh-nguyen-tai-huyen-mien-nui-xu-thanh-20190716192506742.htm" title="Bí thư TƯ Đoàn thăm, tặng quà đội hình tình nguyện tại huyện miền núi xứ Thanh" data-newstype="0" data-linktype="newsdetail" data-id="20190716192506742">Bí thư TƯ Đoàn thăm, tặng quà đội hình tình nguyện tại huyện miền núi xứ Thanh</a></li> 
+         <li><a href="/nhip-song-tre/quan-quan-olympia-2018-co-57-mon-thi-thpt-quoc-gia-tren-9-diem-20190716094848195.htm" title="Quán quân Olympia 2018 có 5/7 môn thi THPT quốc gia trên 9 điểm" data-newstype="0" data-linktype="newsdetail" data-id="20190716094848195">Quán quân Olympia 2018 có 5/7 môn thi THPT quốc gia trên 9 điểm</a></li> 
+         <li><a href="/nhip-song-tre/rot-nuoc-mat-cau-chuyen-ve-cau-be-nang-135-kg-thi-luc-0-luc-ra-doi-vua-tot-nghiep-thpt-20190714125244005.htm" title="Rớt nước mắt câu chuyện về cậu bé nặng 1,35 kg, thị lực 0% lúc ra đời vừa tốt nghiệp THPT" data-newstype="0" data-linktype="newsdetail" data-id="20190714125244005">Rớt nước mắt câu chuyện về cậu bé nặng 1,35 kg, thị lực 0% lúc ra đời vừa tốt nghiệp THPT</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="7" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/suc-khoe/kien-thuc-gioi-tinh.htm" title="Kiến thức giới tính">Kiến thức giới tính</a></span></li> 
+          <li> <span class="h3text"> <a href="/suc-khoe/tu-van.htm" title="Tư vấn">Tư vấn</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/suc-khoe/lam-dep.htm" title="Làm đẹp">Làm đẹp</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/suc-khoe/be-gai-3-tuoi-chet-tuc-tuoi-tai-benh-vien-nhi-dong-2-20190717000758537.htm" title="Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2"> <img title="Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2" alt="Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/dscf-2161-1563296650426.jpeg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/suc-khoe/be-gai-3-tuoi-chet-tuc-tuoi-tai-benh-vien-nhi-dong-2-20190717000758537.htm" title="Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2" class="fon6" data-newstype="3" data-linktype="newsdetail" data-id="20190717000758537">Bé gái 3 tuổi chết tức tưởi tại Bệnh viện Nhi Đồng 2</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Vào viện cấp cứu trong tình trạng đau bụng quằn quại, ói nhưng bác sĩ khám sàng lọc không ghi nhận tình trạng cấp cứu chuyển sang khu điều trị trong ngày. Sau 4 giờ nhập viện, bệnh nhi tím tái toàn thân, nhịp tim rời rạc, tử vong trong sự bức xúc tột độ của gia đình. 
+          </div> 
+          <a class="icon-detail fon7" href="/suc-khoe/be-gai-3-tuoi-chet-tuc-tuoi-tai-benh-vien-nhi-dong-2-20190717000758537.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/suc-khoe/cong-bo-nghien-cuu-lon-nhat-ve-bo-gen-cua-nguoi-viet-nhieu-bat-ngo-lon-20190717071821184.htm" title="Công bố nghiên cứu lớn nhất về bộ gen của người Việt: Nhiều bất ngờ lớn" data-newstype="0" data-linktype="newsdetail" data-id="20190717071821184">Công bố nghiên cứu lớn nhất về bộ gen của người Việt: Nhiều bất ngờ lớn</a></li> 
+         <li><a href="/suc-khoe/21-thuc-pham-phu-nu-nen-an-it-nhat-mot-lan-moi-tuan-20190717074444426.htm" title="21 thực phẩm phụ nữ nên ăn ít nhất một lần mỗi tuần" data-newstype="0" data-linktype="newsdetail" data-id="20190717074444426">21 thực phẩm phụ nữ nên ăn ít nhất một lần mỗi tuần</a></li> 
+         <li><a href="/suc-khoe/nuoc-chanh-co-tot-cho-suc-khoe-khong-20190717071354788.htm" title="Nước chanh có tốt cho sức khỏe không?" data-newstype="0" data-linktype="newsdetail" data-id="20190717071354788">Nước chanh có tốt cho sức khỏe không?</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="119" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/suc-manh-so/vi-tinh.htm" title="Máy tính - Mạng">Máy tính - Mạng</a></span></li> 
+          <li> <span class="h3text"> <a href="/suc-manh-so/dien-thoai.htm" title="Di động - Viễn thông">Di động - Viễn thông</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/suc-manh-so/dien-may.htm" title="Điện tử tiêu dùng">Điện tử tiêu dùng</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/suc-manh-so/nhung-tai-nan-thuong-tam-vi-su-dung-dien-thoai-di-dong-20190715113759726.htm" title="Những tai nạn thương tâm vì sử dụng điện thoại di động"> <img title="Những tai nạn thương tâm vì sử dụng điện thoại di động" alt="Những tai nạn thương tâm vì sử dụng điện thoại di động" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/15/images-1-1563164732604.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/suc-manh-so/nhung-tai-nan-thuong-tam-vi-su-dung-dien-thoai-di-dong-20190715113759726.htm" title="Những tai nạn thương tâm vì sử dụng điện thoại di động" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190715113759726">Những tai nạn thương tâm vì sử dụng điện thoại di động</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Dùng điện thoại di động trong lúc đang tắm, lúc trời mưa giông, lúc đang sạc... đều có thể dẫn đến những tai nạn thương tâm cho người sử dụng. 
+           <br> 
+           <a href="/suc-manh-so/top-5-dien-thoai-co-man-hinh-lon-nhat-nua-dau-nam-2019-20190712103348858.htm" title="Top 5 điện thoại có màn hình lớn nhất nửa đầu năm 2019"> <b>&gt;&gt; Top 5 điện thoại có màn hình lớn nhất nửa đầu năm 2019</b> </a> 
+           <br> 
+           <a href="/suc-manh-so/dan-mang-tranh-cai-viec-trom-tra-lai-mon-do-y-nghia-da-lay-cua-cau-be-bi-u-nao-20190712011131747.htm" title="Dân mạng tranh cãi việc “trộm trả lại món đồ ý nghĩa đã lấy của cậu bé bị u não”"> <b>&gt;&gt; Dân mạng tranh cãi việc “trộm trả lại món đồ ý nghĩa đã lấy của cậu bé bị u não”</b> </a> 
+           <br> 
+           <a href="/suc-manh-so/bi-bat-vi-tung-tin-rong-khong-lo-gay-ra-dong-dat-len-mang-xa-hoi-20190711160912007.htm" title="Bị bắt vì tung tin “rồng khổng lồ gây ra động đất” lên mạng xã hội"> <b>&gt;&gt; Bị bắt vì tung tin “rồng khổng lồ gây ra động đất” lên mạng xã hội</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/suc-manh-so/nhung-tai-nan-thuong-tam-vi-su-dung-dien-thoai-di-dong-20190715113759726.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/suc-manh-so/su-co-cuoi-ra-nuoc-mat-khi-su-dung-robot-lau-nha-tu-dong-20190716182419282.htm" title="Sự cố “cười ra nước mắt” khi sử dụng robot lau nhà tự động" data-newstype="0" data-linktype="newsdetail" data-id="20190716182419282">Sự cố “cười ra nước mắt” khi sử dụng robot lau nhà tự động</a></li> 
+         <li><a href="/suc-manh-so/hmd-global-xac-lap-ky-luc-voi-buc-anh-da-chieu-duoc-chup-cung-luc-trong-1-giay-bang-nhieu-dien-thoai-nokia-nhat-20190716162030877.htm" title="HMD Global xác lập kỷ lục với “Bức ảnh đa chiều được chụp cùng lúc trong 1 giây bằng nhiều điện thoại Nokia nhất”" data-newstype="0" data-linktype="newsdetail" data-id="20190716162030877">HMD Global xác lập kỷ lục với “Bức ảnh đa chiều được chụp cùng lúc trong 1 giây bằng nhiều điện thoại Nokia nhất”</a></li> 
+         <li><a href="/suc-manh-so/thu-nghiem-thanh-cong-sim-dien-tu-tren-dong-ho-thong-minh-20190716153948737.htm" title="Thử nghiệm thành công SIM điện tử trên đồng hồ thông minh" data-newstype="0" data-linktype="newsdetail" data-id="20190716153948737">Thử nghiệm thành công SIM điện tử trên đồng hồ thông minh</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="111" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/o-to-xe-may.htm" title="Ô tô - Xe máy">Ô tô - Xe máy</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/o-to-xe-may/thi-truong-xe.htm" title="Thị trường xe">Thị trường xe</a></span></li> 
+          <li> <span class="h3text"> <a href="/o-to-xe-may/van-hoa-xe.htm" title="Văn hoá xe">Văn hoá xe</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/o-to-xe-may/tu-van-xe.htm" title="Tư vấn xe">Tư vấn xe</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-72019-soi-dong-phan-khuc-xe-phan-khoi-lon-20190716160344153.htm" title="Bảng giá xe máy tại Việt Nam cập nhật tháng 7/2019: Sôi động phân khúc xe phân khối lớn"> <img title="Bảng giá xe máy tại Việt Nam cập nhật tháng 7/2019: Sôi động phân khúc xe phân khối lớn" alt="Bảng giá xe máy tại Việt Nam cập nhật tháng 7/2019: Sôi động phân khúc xe phân khối lớn" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/autoexpo-121560323062191-1563267486023.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-72019-soi-dong-phan-khuc-xe-phan-khoi-lon-20190716160344153.htm" title="Bảng giá xe máy tại Việt Nam cập nhật tháng 7/2019: Sôi động phân khúc xe phân khối lớn" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716160344153">Bảng giá xe máy tại Việt Nam cập nhật tháng 7/2019: Sôi động phân khúc xe phân khối lớn</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Sau khi đưa về các mẫu môtô mới, Honda Việt Nam “ồ ạt” nâng cấp các dòng xe máy phổ thông lắp ráp trong nước. Trong khi đó, VinFast tăng giá các mẫu xe điện Klara, BMW Motorrad đưa về hai mẫu scooter cỡ lớn nhập khẩu từ Trung Quốc, còn Piaggio chỉ làm mới mẫu GTS Super và GTS SuperSport… 
+           <br> 
+           <a href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-62019-20190610004713443.htm" title="Bảng giá xe máy tại Việt Nam cập nhật tháng 6/2019"> <b>&gt;&gt; Bảng giá xe máy tại Việt Nam cập nhật tháng 6/2019</b> </a> 
+           <br> 
+           <a href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-52019-20190506100450532.htm" title="Bảng giá xe máy tại Việt Nam cập nhật tháng 5/2019"> <b>&gt;&gt; Bảng giá xe máy tại Việt Nam cập nhật tháng 5/2019</b> </a> 
+           <br> 
+           <a href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-42019-20190410013314089.htm" title="Bảng giá xe máy tại Việt Nam cập nhật tháng 4/2019"> <b>&gt;&gt; Bảng giá xe máy tại Việt Nam cập nhật tháng 4/2019</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/o-to-xe-may/bang-gia-xe-may-tai-viet-nam-cap-nhat-thang-72019-soi-dong-phan-khuc-xe-phan-khoi-lon-20190716160344153.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/o-to-xe-may/kinh-nghiem-danh-cho-phuot-thu-dung-tu-tin-thai-qua-20190716162948061.htm" title="Kinh nghiệm dành cho &quot;phượt thủ&quot;: Đừng tự tin thái quá!" data-newstype="2" data-linktype="newsdetail" data-id="20190716162948061">Kinh nghiệm dành cho "phượt thủ": Đừng tự tin thái quá!</a></li> 
+         <li><a href="/o-to-xe-may/ro-tin-don-mercedes-benz-dung-san-xuat-xe-ban-tai-x-class-20190717074041694.htm" title="Rộ tin đồn Mercedes-Benz dừng sản xuất xe bán tải X-Class" data-newstype="0" data-linktype="newsdetail" data-id="20190717074041694">Rộ tin đồn Mercedes-Benz dừng sản xuất xe bán tải X-Class</a></li> 
+         <li><a href="/o-to-xe-may/giat-minh-em-be-di-xe-dap-do-choi-bang-qua-duong-20190716144706641.htm" title="Giật mình em bé đi xe đạp đồ chơi băng qua đường" data-newstype="2" data-linktype="newsdetail" data-id="20190716144706641">Giật mình em bé đi xe đạp đồ chơi băng qua đường</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="202" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/ban-doc.htm" title="Bạn đọc">Bạn đọc</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/ban-doc/dieu-tra.htm" title="Điều tra">Điều tra</a></span></li> 
+          <li> <span class="h3text"> <a href="/ban-doc/tu-van-phap-luat.htm" title="Tư vấn pháp luật">Tư vấn pháp luật</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/ban-doc/hoi-am.htm" title="Hồi âm">Hồi âm</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/ban-doc/phu-yen-bi-lap-bien-ban-sai-pham-doanh-nghiep-duoi-thang-can-bo-thanh-pho-20190715224358056.htm" title="Phú Yên: Bị lập biên bản sai phạm, doanh nghiệp đuổi thẳng cán bộ thành phố!"> <img title="Phú Yên: Bị lập biên bản sai phạm, doanh nghiệp đuổi thẳng cán bộ thành phố!" alt="Phú Yên: Bị lập biên bản sai phạm, doanh nghiệp đuổi thẳng cán bộ thành phố!" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/a-4-1563254620343.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/ban-doc/phu-yen-bi-lap-bien-ban-sai-pham-doanh-nghiep-duoi-thang-can-bo-thanh-pho-20190715224358056.htm" title="Phú Yên: Bị lập biên bản sai phạm, doanh nghiệp đuổi thẳng cán bộ thành phố!" class="fon6" data-newstype="2" data-linktype="newsdetail" data-id="20190715224358056">Phú Yên: Bị lập biên bản sai phạm, doanh nghiệp đuổi thẳng cán bộ thành phố!</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Công ty TNHH Thương mại Dịch vụ Phú Khánh Việt là doanh nghiệp từng được UBND tỉnh Phú Yên “ưu ái” giao đất “vàng” không thông qua đấu giá để triển khai dự án. Việc giao đất “vàng” này bị dư luận phản đối, buộc Tỉnh ủy Phú Yên vào cuộc, qua đó thông báo yêu cầu dừng dự án để hoàn thành các thủ tục. Tuy nhiên doanh nghiệp này đã “phớt lờ” thông báo của chính quyền tiếp tục ngày đêm xây dựng. 
+           <br> 
+           <a href="/ban-doc/vu-cho-tien-ty-diu-hiu-chu-tich-ubnd-tinh-phu-yen-doi-thoai-voi-nguoi-dan-20190715181917200.htm" title="Vụ chợ tiền tỷ đìu hiu: Chủ tịch UBND tỉnh Phú Yên đối thoại với người dân!"> <b>&gt;&gt; Vụ chợ tiền tỷ đìu hiu: Chủ tịch UBND tỉnh Phú Yên đối thoại với người dân!</b> </a> 
+           <br> 
+           <a href="/ban-doc/phu-yen-hang-loat-may-ban-hang-tu-dong-moi-van-hanh-da-bi-pha-hoai-tan-tanh-20190619152030402.htm" title="Phú Yên: Hàng loạt máy bán hàng tự động mới vận hành đã bị phá hoại tan tành!"> <b>&gt;&gt; Phú Yên: Hàng loạt máy bán hàng tự động mới vận hành đã bị phá hoại tan tành!</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/ban-doc/phu-yen-bi-lap-bien-ban-sai-pham-doanh-nghiep-duoi-thang-can-bo-thanh-pho-20190715224358056.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/ban-doc/bao-dong-tinh-trang-ben-tap-ket-cat-soi-trai-phep-de-doa-dong-song-lam-20190716233549400.htm" title="&quot;Báo động&quot; tình trạng bến tập kết cát sỏi trái phép đe doạ dòng sông Lam!" data-newstype="3" data-linktype="newsdetail" data-id="20190716233549400">"Báo động" tình trạng bến tập kết cát sỏi trái phép đe doạ dòng sông Lam!</a></li> 
+         <li><a href="/ban-doc/them-mot-vu-hanh-dan-dien-hinh-tai-tp-vung-tau-20190717065005900.htm" title="Thêm một vụ &quot;hành dân&quot; điển hình tại TP Vũng Tàu!" data-newstype="0" data-linktype="newsdetail" data-id="20190717065005900">Thêm một vụ "hành dân" điển hình tại TP Vũng Tàu!</a></li> 
+         <li><a href="/ban-doc/cong-an-tp-ha-noi-xac-nhan-hang-loat-sai-pham-cua-nguyen-giam-doc-cong-ty-hacinco-20190716120207334.htm" title="Công an TP Hà Nội xác nhận hàng loạt sai phạm của nguyên Giám đốc Công ty Hacinco" data-newstype="0" data-linktype="newsdetail" data-id="20190716120207334">Công an TP Hà Nội xác nhận hàng loạt sai phạm của nguyên Giám đốc Công ty Hacinco</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="130" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu - Giới tính">Tình yêu - Giới tính</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/tinh-yeu-gioi-tinh/chuyen-cua-toi.htm" title="Chuyện của tôi">Chuyện của tôi</a></span></li> 
+          <li> <span class="h3text"> <a href="/tinh-yeu-gioi-tinh/gia-dinh.htm" title="Gia đình">Gia đình</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/tinh-yeu-gioi-tinh/tinh-yeu.htm" title="Tình yêu">Tình yêu</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/tinh-yeu-gioi-tinh/khong-con-tin-vo-ke-tu-khi-biet-co-ay-suyt-len-giuong-voi-dong-nghiep-20190717011137088.htm" title="Không còn tin vợ kể từ khi biết cô ấy suýt lên giường với đồng nghiệp"> <img title="Không còn tin vợ kể từ khi biết cô ấy suýt lên giường với đồng nghiệp" alt="Không còn tin vợ kể từ khi biết cô ấy suýt lên giường với đồng nghiệp" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/screen-shot-20190717-at-10800-am-1563300502945.png"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/tinh-yeu-gioi-tinh/khong-con-tin-vo-ke-tu-khi-biet-co-ay-suyt-len-giuong-voi-dong-nghiep-20190717011137088.htm" title="Không còn tin vợ kể từ khi biết cô ấy suýt lên giường với đồng nghiệp" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717011137088">Không còn tin vợ kể từ khi biết cô ấy suýt lên giường với đồng nghiệp</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Qua những gì họ nói với nhau thì tôi cho rằng họ đã có một số gần gũi nhất định, đã khám phá cơ thể nhau dù có thể chưa lên giường. Họ cứ nói về “điều đó chưa xảy ra” và vu vơ bày tỏ sự tiếc nuối... 
+          </div> 
+          <a class="icon-detail fon7" href="/tinh-yeu-gioi-tinh/khong-con-tin-vo-ke-tu-khi-biet-co-ay-suyt-len-giuong-voi-dong-nghiep-20190717011137088.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/tinh-yeu-gioi-tinh/ap-luc-de-nang-trong-long-chi-em-la-gi-20190716144426076.htm" title="Áp lực đè nặng trong lòng chị em là gì?" data-newstype="0" data-linktype="newsdetail" data-id="20190716144426076">Áp lực đè nặng trong lòng chị em là gì?</a></li> 
+         <li><a href="/tinh-yeu-gioi-tinh/cham-con-the-nao-trong-mua-he-nong-nuc-20190716121312585.htm" title="Chăm con thế nào trong mùa Hè nóng nực" data-newstype="0" data-linktype="newsdetail" data-id="20190716121312585">Chăm con thế nào trong mùa Hè nóng nực</a></li> 
+         <li><a href="/tinh-yeu-gioi-tinh/xot-xa-con-gai-viet-thu-cho-nguoi-me-qua-co-20190716081319598.htm" title="Xót xa con gái viết thư cho người mẹ quá cố" data-newstype="0" data-linktype="newsdetail" data-id="20190716081319598">Xót xa con gái viết thư cho người mẹ quá cố</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="894" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/khoa-hoc-cong-nghe.htm" title="Khoa học - Công nghệ">Khoa học - Công nghệ</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/khoa-hoc-cong-nghe/the-gioi-tu-nhien.htm" title="Thế giới tự nhiên">Thế giới tự nhiên</a></span></li> 
+          <li> <span class="h3text"> <a href="/khoa-hoc-cong-nghe/khoa-hoc-do-day.htm" title="Khoa học đó đây">Khoa học đó đây</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/khoa-hoc-cong-nghe/tai-sao-lai-the.htm" title="Tại sao lại thế?">Tại sao lại thế?</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/khoa-hoc-cong-nghe/hoi-hop-xem-cua-chay-thoat-than-khoi-nanh-vuot-ke-san-moi-20190716213202325.htm" title="“Hồi hộp” xem cua chạy thoát thân khỏi nanh vuốt kẻ săn mồi!"> <img title="“Hồi hộp” xem cua chạy thoát thân khỏi nanh vuốt kẻ săn mồi!" alt="“Hồi hộp” xem cua chạy thoát thân khỏi nanh vuốt kẻ săn mồi!" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/ezgifcomvideotogif-16-1563287472945.gif"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/khoa-hoc-cong-nghe/hoi-hop-xem-cua-chay-thoat-than-khoi-nanh-vuot-ke-san-moi-20190716213202325.htm" title="“Hồi hộp” xem cua chạy thoát thân khỏi nanh vuốt kẻ săn mồi!" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716213202325">“Hồi hộp” xem cua chạy thoát thân khỏi nanh vuốt kẻ săn mồi!</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Để tồn tại, những chú cua phải di chuyển dọc theo bờ biển kiếm ăn. Tuy nhiên, ẩn dưới mặt nước này lại là hàng tá kẻ săn mồi đang chực chờ, và chỉ cần sai một bước đi thứ chúng phải đánh đổi là cả mạng sống! 
+          </div> 
+          <a class="icon-detail fon7" href="/khoa-hoc-cong-nghe/hoi-hop-xem-cua-chay-thoat-than-khoi-nanh-vuot-ke-san-moi-20190716213202325.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/khoa-hoc-cong-nghe/che-do-an-giau-chat-xo-phong-ngua-nguy-co-tien-san-giat-o-thai-phu-20190717071718134.htm" title="Chế độ ăn giàu chất xơ phòng ngừa nguy cơ tiền sản giật ở thai phụ" data-newstype="0" data-linktype="newsdetail" data-id="20190717071718134">Chế độ ăn giàu chất xơ phòng ngừa nguy cơ tiền sản giật ở thai phụ</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/dieu-gi-se-xay-ra-neu-chung-ta-bien-toan-bo-sa-mac-sahara-thanh-rung-20190716205822689.htm" title="Điều gì sẽ xảy ra nếu chúng ta biến toàn bộ sa mạc Sahara thành rừng?" data-newstype="0" data-linktype="newsdetail" data-id="20190716205822689">Điều gì sẽ xảy ra nếu chúng ta biến toàn bộ sa mạc Sahara thành rừng?</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/vi-sao-khong-phai-loai-linh-truong-nao-cung-tien-hoa-thanh-nguoi-20190717064054850.htm" title="Vì sao không phải loài linh trưởng nào cũng tiến hóa thành người?" data-newstype="0" data-linktype="newsdetail" data-id="20190717064054850">Vì sao không phải loài linh trưởng nào cũng tiến hóa thành người?</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="704" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="https://tuyensinh.dantri.com.vn" target="_blank" title="Tuyển sinh">Tuyển sinh</a> </span> </li> 
+          <li> <span class="h3text"> <a href="https://tuyensinh.dantri.com.vn/tuyen-sinh/bi-quyet-hoc-va-thi.htm" target="_blank" title="Bí quyết học và thi">Bí quyết học và thi</a></span></li> 
+          <li> <span class="h3text"> <a href="https://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu-diem-chuan.htm" target="_blank" title="Chỉ tiêu - Điểm chuẩn">Chỉ tiêu - Điểm chuẩn</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="https://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an.htm" target="_blank" title="Đề thi - Đáp án">Đề thi - Đáp án</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/giao-duc-khuyen-hoc/nu-sinh-truong-lang-xu-nghe-dat-thu-khoa-khoi-a-toan-tinh-20190715163718256.htm" title="Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh"> <img title="Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh" alt="Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/15/anh-4-1563183080184.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/giao-duc-khuyen-hoc/nu-sinh-truong-lang-xu-nghe-dat-thu-khoa-khoi-a-toan-tinh-20190715163718256.htm" title="Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh" class="fon6" data-newstype="2" data-linktype="newsdetail" data-id="20190715163718256">Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Với tổng điểm 3 môn thi Toán, Lý, Hóa là 28,4 điểm, Nguyễn Thị Hà Giang là thí sinh có điểm xét tuyển khối A cao nhất tỉnh Nghệ An và xếp thứ 9 cả nước. Điều đặc biệt, nữ sinh này không đến từ những trường chuyên nức tiếng của đất học xứ Nghệ mà em là học sinh của một “trường làng”. 
+           <br> 
+           <a href="/giao-duc-khuyen-hoc/thu-khoa-khoi-c-ca-nuoc-khao-khat-tro-thanh-giao-vien-20190716081700486.htm" title="Thủ khoa khối C cả nước khao khát trở thành giáo viên"> <b>&gt;&gt; Thủ khoa khối C cả nước khao khát trở thành giáo viên</b> </a> 
+           <br> 
+           <a href="/giao-duc-khuyen-hoc/ha-tinh-1-lop-hoc-co-2-thu-khoa-toan-quoc-20190715162931654.htm" title="Hà Tĩnh: 1 lớp học có 2 thủ khoa toàn quốc"> <b>&gt;&gt; Hà Tĩnh: 1 lớp học có 2 thủ khoa toàn quốc</b> </a> 
+           <br> 
+           <a href="/giao-duc-khuyen-hoc/hoc-truong-lang-bo-me-thuan-nong-nu-sinh-la-thu-khoa-khoi-d-1-toan-quoc-20190715150124118.htm" title="Học trường làng, bố mẹ thuần nông, nữ sinh là thủ khoa khối D1 toàn quốc"> <b>&gt;&gt; Học trường làng, bố mẹ thuần nông, nữ sinh là thủ khoa khối D1 toàn quốc</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/giao-duc-khuyen-hoc/nu-sinh-truong-lang-xu-nghe-dat-thu-khoa-khoi-a-toan-tinh-20190715163718256.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/giao-duc-khuyen-hoc/truong-dh-bach-khoa-ha-noi-diem-chuan-chinh-thuc-co-giam-so-voi-du-bao-ban-dau-20190717071919215.htm" title="Trường ĐH Bách khoa Hà Nội: Điểm chuẩn chính thức có giảm so với dự báo ban đầu?" data-newstype="0" data-linktype="newsdetail" data-id="20190717071919215">Trường ĐH Bách khoa Hà Nội: Điểm chuẩn chính thức có giảm so với dự báo ban đầu?</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/truong-dh-cong-nghe-gtvt-diem-chuan-nam-2019-du-kien-tu-145-18-diem-20190717065005190.htm" title="Trường ĐH Công nghệ GTVT: Điểm chuẩn năm 2019 dự kiến từ 14,5 - 18 điểm" data-newstype="0" data-linktype="newsdetail" data-id="20190717065005190">Trường ĐH Công nghệ GTVT: Điểm chuẩn năm 2019 dự kiến từ 14,5 - 18 điểm</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/nhin-lai-du-lieu-diem-3-nam-thi-thpt-quoc-gia-nhieu-van-de-phai-ban-20190717064019573.htm" title="Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn" data-newstype="0" data-linktype="newsdetail" data-id="20190717064019573">Nhìn lại dữ liệu điểm 3 năm thi THPT quốc gia: Nhiều vấn đề phải bàn</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="133" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/viec-lam.htm" title="Việc làm">Việc làm</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/viec-lam/chinh-sach.htm" title="Chính sách">Chính sách</a></span></li> 
+          <li> <span class="h3text"> <a href="/viec-lam/thi-truong.htm" title="Thị trường">Thị trường</a></span></li> 
+          <li> <span class="h3text"> <a href="/viec-lam/dao-tao.htm" title="Đào tạo">Đào tạo</a></span></li> 
+          <li> <span class="h3text"> <a href="/viec-lam/chung-toi-noi.htm" title="Chúng tôi nói">Chúng tôi nói</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/viec-lam/xkld.htm" title="XKLĐ">XKLĐ</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/viec-lam/tinh-yeu-cua-vo-chong-u-90-trong-quan-sua-xe-o-quang-tri-20190717000418396.htm" title="Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị"> <img title="Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị" alt="Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/tinh-yeu-cua-vo-chong-u-90-trong-quan-sua-xe-o-quang-tri-2-1563296299312.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/viec-lam/tinh-yeu-cua-vo-chong-u-90-trong-quan-sua-xe-o-quang-tri-20190717000418396.htm" title="Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717000418396">Tình yêu của vợ chồng U90 trong quán sửa xe ở Quảng Trị</a></h4> 
+          <div class="fon5">
+            Cạnh bên những chiếc xe hỏng là hình ảnh vợ chồng ông Lê Bông (86 tuổi) và bà Lê Thị Xá (82 tuổi) ngày ngày cần mẫn&nbsp;ngồi sửa. 
+           <br> 
+           <a href="/viec-lam/co-tich-cua-nguoi-dan-ong-khong-chan-20160722221720984.htm" title="&quot;Cổ tích&quot; của người đàn ông không chân"> <b>&gt;&gt; "Cổ tích" của người đàn ông không chân</b> </a> 
+           <br> 
+           <a href="/viec-lam/nguoi-dan-ba-30-nam-va-xe-dem-o-noi-sam-uat-nhat-sai-gon-20160529081114984.htm" title="Người đàn bà 30 năm vá xe đêm ở nơi sầm uất nhất Sài Gòn"> <b>&gt;&gt; Người đàn bà 30 năm vá xe đêm ở nơi sầm uất nhất Sài Gòn</b> </a> 
+           <br> 
+           <a href="/viec-lam/chuyen-doi-ba-ut-ve-chai-20170417082519439.htm" title="Chuyện đời bà Út ve chai"> <b>&gt;&gt; Chuyện đời bà Út ve chai</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/viec-lam/tinh-yeu-cua-vo-chong-u-90-trong-quan-sua-xe-o-quang-tri-20190717000418396.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/viec-lam/nam-2025-12-trieu-luot-hoc-sinh-sinh-vien-tiep-can-voi-khoi-nghiep-tu-tao-viec-lam-20190717084034255.htm" title="Năm 2025: 12 triệu lượt học sinh, sinh viên tiếp cận với khởi nghiệp, tự tạo việc làm" data-newstype="0" data-linktype="newsdetail" data-id="20190717084034255">Năm 2025: 12 triệu lượt học sinh, sinh viên tiếp cận với khởi nghiệp, tự tạo việc làm</a></li> 
+         <li><a href="/viec-lam/ty-le-that-nghiep-tai-anh-o-muc-thap-nhat-ke-tu-nam-1974-20190717080043325.htm" title="Tỷ lệ thất nghiệp tại Anh ở mức thấp nhất kể từ năm 1974" data-newstype="0" data-linktype="newsdetail" data-id="20190717080043325">Tỷ lệ thất nghiệp tại Anh ở mức thấp nhất kể từ năm 1974</a></li> 
+         <li><a href="/viec-lam/da-nhan-tro-cap-tuat-co-duoc-huong-bhxh-mot-lan-20190716235035423.htm" title="Đã nhận trợ cấp tuất có được hưởng BHXH một lần?" data-newstype="0" data-linktype="newsdetail" data-id="20190716235035423">Đã nhận trợ cấp tuất có được hưởng BHXH một lần?</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="734" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="https://duhoc.dantri.com.vn" target="_blank" title="Du học">Du học</a> </span> </li> 
+          <li> <span class="h3text"> <a href="https://duhoc.dantri.com.vn/du-hoc/co-hoi-du-hoc.htm" target="_blank" title="Cơ hội du học">Cơ hội du học</a></span></li> 
+          <li> <span class="h3text"> <a href="https://duhoc.dantri.com.vn/du-hoc/the-gioi-du-hoc.htm" target="_blank" title="Thế giới du học">Thế giới du học</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="https://duhoc.dantri.com.vn/du-hoc/tai-tri-viet.htm" target="_blank" title="Tài trí Việt">Tài trí Việt</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="https://duhoc.dantri.com.vn/du-hoc/nu-sinh-che-tao-day-deo-thong-minh-canh-bao-quay-roi-tinh-duc-20190716081455325.htm" target="_blank" title="Nữ sinh chế tạo dây đeo thông minh cảnh báo quấy rối tình dục"> <img title="Nữ sinh chế tạo dây đeo thông minh cảnh báo quấy rối tình dục" alt="Nữ sinh chế tạo dây đeo thông minh cảnh báo quấy rối tình dục" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/hoc-sinh-tao-day-deo-co-tay-de-canh-bao-nhan-vien-quay-bar-khi-co-ai-do-dang-bi-quay-roidocx-1563239584011.jpeg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="https://duhoc.dantri.com.vn/du-hoc/nu-sinh-che-tao-day-deo-thong-minh-canh-bao-quay-roi-tinh-duc-20190716081455325.htm" target="_blank" title="Nữ sinh chế tạo dây đeo thông minh cảnh báo quấy rối tình dục" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716081455325">Nữ sinh chế tạo dây đeo thông minh cảnh báo quấy rối tình dục</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Một nữ sinh đại học đã tạo ra thiết bị dây đeo cổ tay có chức năng thông báo cho bạn bè và nhân viên hộp đêm biết nếu ai đó đang bị quấy rối. 
+          </div> 
+          <a class="icon-detail fon7" href="https://duhoc.dantri.com.vn/du-hoc/nu-sinh-che-tao-day-deo-thong-minh-canh-bao-quay-roi-tinh-duc-20190716081455325.htm" target="_blank" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="https://duhoc.dantri.com.vn/du-hoc/5-truong-dai-hoc-duoi-50-tuoi-tot-nhat-the-gioi-nam-2019-20190714232535417.htm" target="_blank" title="5 trường đại học dưới 50 tuổi tốt nhất thế giới năm 2019" data-newstype="0" data-linktype="newsdetail" data-id="20190714232535417">5 trường đại học dưới 50 tuổi tốt nhất thế giới năm 2019</a></li> 
+         <li><a href="https://duhoc.dantri.com.vn/du-hoc/nghien-cuu-sinh-trung-quoc-tai-my-tu-tu-nghi-do-ap-luc-cong-viec-20190707180725900.htm" target="_blank" title="Nghiên cứu sinh Trung Quốc tại Mỹ tự tử nghi do áp lực công việc" data-newstype="0" data-linktype="newsdetail" data-id="20190707180725900">Nghiên cứu sinh Trung Quốc tại Mỹ tự tử nghi do áp lực công việc</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/siet-chat-quan-ly-hoat-dong-tu-van-du-hoc-nhat-ban-20190713165721351.htm" title="Siết chặt quản lý hoạt động tư vấn du học Nhật Bản" data-newstype="0" data-linktype="newsdetail" data-id="20190713165721351">Siết chặt quản lý hoạt động tư vấn du học Nhật Bản</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="132" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a> </span> </li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/chuyen-la/pha-ky-luc-the-gioi-ve-thoi-gian-ngoi-bon-cau-20190717081402087.htm" title="Phá kỷ lục thế giới về thời gian ngồi... bồn cầu"> <img title="Phá kỷ lục thế giới về thời gian ngồi... bồn cầu" alt="Phá kỷ lục thế giới về thời gian ngồi... bồn cầu" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/kien-tri-ngoi-bon-cau-5-ngay-nguoi-dan-ong-lap-ky-luc-the-gioidocx-1563325371307.png"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/chuyen-la/pha-ky-luc-the-gioi-ve-thoi-gian-ngoi-bon-cau-20190717081402087.htm" title="Phá kỷ lục thế giới về thời gian ngồi... bồn cầu" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717081402087">Phá kỷ lục thế giới về thời gian ngồi... bồn cầu</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Mới đây, ông Jimmy De Frenne, 48 tuổi, đến từ Bỉ đã lập kỷ lục thế giới mới về thời gian ngồi lâu nhất trong nhà vệ sinh sau khi dành tới 5 ngày ngồi trên bồn cầu trong một quán bar. 
+          </div> 
+          <a class="icon-detail fon7" href="/chuyen-la/pha-ky-luc-the-gioi-ve-thoi-gian-ngoi-bon-cau-20190717081402087.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/chuyen-la/ngo-ngang-truoc-nhung-tuyet-tac-tranh-son-dau-song-dong-nhu-anh-chup-20190716093829859.htm" title="Ngỡ ngàng trước những tuyệt tác tranh sơn dầu sống động như ảnh chụp" data-newstype="3" data-linktype="newsdetail" data-id="20190716093829859">Ngỡ ngàng trước những tuyệt tác tranh sơn dầu sống động như ảnh chụp</a></li> 
+         <li><a href="/chuyen-la/di-tu-vi-chan-danh-giao-vien-cu-quay-clip-dua-len-mang-xa-hoi-20190716080406269.htm" title="Đi tù vì chặn đánh giáo viên cũ, quay clip đưa lên mạng xã hội" data-newstype="2" data-linktype="newsdetail" data-id="20190716080406269">Đi tù vì chặn đánh giáo viên cũ, quay clip đưa lên mạng xã hội</a></li> 
+         <li><a href="/chuyen-la/dung-chenh-venh-gan-nuoc-mat-cua-quy-chup-selfie-du-khach-tra-gia-dat-20190715143007265.htm" title="Đứng chênh vênh gần &quot;Nước mắt của Quỷ&quot; chụp selfie, du khách trả giá đắt" data-newstype="2" data-linktype="newsdetail" data-id="20190715143007265">Đứng chênh vênh gần "Nước mắt của Quỷ" chụp selfie, du khách trả giá đắt</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="844" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/doi-song.htm" title="Đời sống">Đời sống</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/doi-song/cong-dong.htm" title="Cộng đồng">Cộng đồng</a></span></li> 
+          <li> <span class="h3text"> <a href="/doi-song/nha-dep.htm" title="Nhà đẹp">Nhà đẹp</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/doi-song/bao-ve-gia-dinh-viet.htm" title="Bảo vệ Gia đình Việt">Bảo vệ Gia đình Việt</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/doi-song/canh-dia-nguc-cua-nhung-thieu-nu-bi-ban-vao-nha-chua-o-bangladesh-20190717064813864.htm" title="Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh"> <img title="Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh" alt="Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/canh-dia-nguc-cua-nhung-thieu-nu-bi-ban-vao-nha-chua-o-bangladesh-1-1563320688839.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/doi-song/canh-dia-nguc-cua-nhung-thieu-nu-bi-ban-vao-nha-chua-o-bangladesh-20190717064813864.htm" title="Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717064813864">Cảnh địa ngục của những thiếu nữ bị bán vào nhà chứa ở Bangladesh</a></h4> 
+          <div class="fon5">
+            Bị bán vào nhà chứa, bị giam cầm suốt nhiều năm và bị ép bán dâm vài lần mỗi ngày… Đó là cuộc sống của hàng chục ngàn thiếu nữ chưa đủ tuổi vị thành niên ở Bangladesh. 
+          </div> 
+          <a class="icon-detail fon7" href="/doi-song/canh-dia-nguc-cua-nhung-thieu-nu-bi-ban-vao-nha-chua-o-bangladesh-20190717064813864.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/doi-song/la-lung-nhung-quan-an-chui-khach-nhu-tat-nuoc-chi-co-o-ha-noi-20190717064602516.htm" title="Lạ lùng những quán ăn &quot;chửi khách như tát nước&quot; chỉ có ở Hà Nội" data-newstype="2" data-linktype="newsdetail" data-id="20190717064602516">Lạ lùng những quán ăn "chửi khách như tát nước" chỉ có ở Hà Nội</a></li> 
+         <li><a href="/doi-song/du-quay-gay-doi-giua-khong-trung-lam-gan-30-nguoi-thuong-vong-20190716161454956.htm" title="Đu quay gãy đôi giữa không trung làm gần 30 người thương vong" data-newstype="0" data-linktype="newsdetail" data-id="20190716161454956">Đu quay gãy đôi giữa không trung làm gần 30 người thương vong</a></li> 
+         <li><a href="/doi-song/tan-mat-chiem-nguong-do-khung-cua-cay-sanh-hon-800-nam-tuoi-trong-phim-ma-lang-20190716144724956.htm" title="Tận mắt chiêm ngưỡng độ “khủng” của cây sanh hơn 800 năm tuổi trong phim Ma làng" data-newstype="0" data-linktype="newsdetail" data-id="20190716144724956">Tận mắt chiêm ngưỡng độ “khủng” của cây sanh hơn 800 năm tuổi trong phim Ma làng</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="702" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/blog.htm" title="Blog">Blog</a> </span> </li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/blog/mot-quyet-dinh-nhan-van-va-sang-suot-20190717021446911.htm" title="Một quyết định nhân văn và sáng suốt"> <img title="Một quyết định nhân văn và sáng suốt" alt="Một quyết định nhân văn và sáng suốt" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/17/hocsinhngheo-1563304367722.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/blog/mot-quyet-dinh-nhan-van-va-sang-suot-20190717021446911.htm" title="Một quyết định nhân văn và sáng suốt" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190717021446911">Một quyết định nhân văn và sáng suốt</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Xin gửi lời tri ân tới Ban giám hiệu các nhà trường, các nhà hảo tâm và đông đảo bạn đọc Dân trí đã gửi ý kiến (comment) về chia sẻ, giúp đỡ em những ngày qua và mong rằng sẽ tiếp tục nhận được ý kiến (comment) động viên để tiếp thêm cho em nghị lực.&nbsp; . 
+           <br> 
+           <a href="/tam-long-nhan-ai/nu-sinh-bo-thi-tot-nghiep-chiu-tang-cha-xuc-dong-duoc-nhieu-truong-dai-hoc-tiep-nhan-20190715184123284.htm" title="Nữ sinh bỏ thi tốt nghiệp chịu tang cha xúc động được nhiều trường đại học tiếp nhận"> <b>&gt;&gt; Nữ sinh bỏ thi tốt nghiệp chịu tang cha xúc động được nhiều trường đại học tiếp nhận</b> </a> 
+          </div> 
+          <a class="icon-detail fon7" href="/blog/mot-quyet-dinh-nhan-van-va-sang-suot-20190717021446911.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/blog/cam-cai-lon-dung-cai-lu-gioi-oi-sao-thay-lu-bu-the-nay-20190716025630300.htm" title="&quot;Cấm cái “lon”, dùng cái… “lu” - Giời ơi sao thấy... lu bu thế này”" data-newstype="0" data-linktype="newsdetail" data-id="20190716025630300">"Cấm cái “lon”, dùng cái… “lu” - Giời ơi sao thấy... lu bu thế này”</a></li> 
+         <li><a href="/blog/tu-du-an-duong-sat-yen-vien-ha-long-nhin-lai-sieu-du-an-duong-sat-cao-toc-bac-nam-20190715050956854.htm" title="Từ dự án đường sắt Yên Viên-Hạ Long, nhìn lại &quot;siêu dự án&quot; đường sắt cao tốc &nbsp;Bắc-Nam" data-newstype="0" data-linktype="newsdetail" data-id="20190715050956854">Từ dự án đường sắt Yên Viên-Hạ Long, nhìn lại "siêu dự án" đường sắt cao tốc &nbsp;Bắc-Nam</a></li> 
+         <li><a href="/blog/can-xoa-bo-tu-tuong-mat-tien-muon-lam-gi-thi-lam-khi-du-lich-20190714001943375.htm" title="Cần xóa bỏ tư tưởng mất tiền, muốn làm gì thì làm khi du lịch" data-newstype="0" data-linktype="newsdetail" data-id="20190714001943375">Cần xóa bỏ tư tưởng mất tiền, muốn làm gì thì làm khi du lịch</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+       <div data-zoneid="673" class="mt2 newszone"> 
+        <div class="box4"> 
+         <ul class="ul2" id="nbm-sub-cat"> 
+          <li class="active"> <span class="h2text"> <a class=" cl-white" href="/dien-dan.htm" title="Diễn đàn">Diễn đàn</a> </span> </li> 
+          <li> <span class="h3text"> <a href="/dien-dan/giao-duc.htm" title="Giáo dục">Giáo dục</a></span></li> 
+          <li> <span class="h3text"> <a href="/dien-dan/xa-hoi.htm" title="Xã hội">Xã hội</a></span></li> 
+          <li class="none"> <span class="h3text"> <a href="/dien-dan/the-gioi.htm" title="Thế giới">Thế giới</a></span></li> 
+         </ul> 
+        </div> 
+        <div class="mt1 clearfix"> 
+         <a href="/dien-dan/bi-can-khai-nhan-hoi-lo-nhung-co-quan-dieu-tra-khong-chap-nhan-20190716234130717.htm" title="Bị can khai nhận hối lộ nhưng cơ quan điều tra không chấp nhận"> <img title="Bị can khai nhận hối lộ nhưng cơ quan điều tra không chấp nhận" alt="Bị can khai nhận hối lộ nhưng cơ quan điều tra không chấp nhận" src="https://icdn.dantri.com.vn/zoom/130_100//2019/07/16/untitled-1-copy-1563295062965.jpg"> </a> 
+         <div class="fl wid330"> 
+          <h4><a href="/dien-dan/bi-can-khai-nhan-hoi-lo-nhung-co-quan-dieu-tra-khong-chap-nhan-20190716234130717.htm" title="Bị can khai nhận hối lộ nhưng cơ quan điều tra không chấp nhận" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20190716234130717">Bị can khai nhận hối lộ nhưng cơ quan điều tra không chấp nhận</a></h4> 
+          <div class="fon5"> 
+           <span>(Dân trí)</span>&nbsp;- Những tưởng rằng vụ án mua bán điểm ở Sơn La sẽ rõ ràng hơn rất nhiều so với Hà Giang, &nbsp;khi những bị can nâng điểm&nbsp; thừa nhận “bán điểm” lên tới tiền tỉ. Nhưng không., so với Hà Giang thậm chí còn những điều khó hiểu hơn. 
+          </div> 
+          <a class="icon-detail fon7" href="/dien-dan/bi-can-khai-nhan-hoi-lo-nhung-co-quan-dieu-tra-khong-chap-nhan-20190716234130717.htm" rel="nofollow">Xem tiếp</a> 
+         </div> 
+        </div> 
+        <ul id="ctl00_ctl00_cphBody_cphBody_NewsZone1_lstOtherNews" class="ul3 mt2"> 
+         <li><a href="/dien-dan/danh-va-thuc-20190715114614640.htm" title="Danh và thực!" data-newstype="0" data-linktype="newsdetail" data-id="20190715114614640">Danh và thực!</a></li> 
+         <li><a href="/dien-dan/chan-cuc-mau-dong-va-trach-nhiem-cac-nha-bang-20190407182321950.htm" title="Chặn &quot;cục máu đông&quot; và trách nhiệm các nhà băng" data-newstype="0" data-linktype="newsdetail" data-id="20190407182321950">Chặn "cục máu đông" và trách nhiệm các nhà băng</a></li> 
+         <li><a href="/dien-dan/nuoc-mat-o-vi-xuyen-20190715113843973.htm" title="Nước mắt ở Vị Xuyên" data-newstype="0" data-linktype="newsdetail" data-id="20190715113843973">Nước mắt ở Vị Xuyên</a></li> 
+        </ul> 
+        <div class="line1 mt1"></div> 
+       </div> 
+      </div> 
+      <div class="fr w510"> 
+       <div class="fl wid310 box5 admicro"> 
+        <div class="ic-ads"> 
+         <div name="column" class="ads"> 
+          <div class="thoitiet"> 
+           <div id="divChannelvnWeather" weather-gold> 
+           </div> 
+           <div id="CafeF_ThoiTiet"> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="ic-ads"> 
+         <div class="guong-sang"> 
+          <h3> <a href="/giao-duc-khuyen-hoc/guong-sang.htm" title="Gương sáng"> <img style="border: 0 none; height: 25px; margin: 5px 0 0 42px; width: 187px;" src="https://cdnweb.dantri.com.vn/images/blank.gif"> </a> </h3> 
+          <div class="img-gs"> 
+           <a href="/giao-duc-khuyen-hoc/nu-sinh-truong-lang-xu-nghe-dat-thu-khoa-khoi-a-toan-tinh-20190715163718256.htm" title="Nữ sinh trường làng xứ Nghệ đạt thủ khoa khối A toàn tỉnh"> <img alt="Nữ sinh trường làng xứ Nghệ đạt th
