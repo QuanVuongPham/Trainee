@@ -74,77 +74,14 @@ public class Maze
         {
             // Hàm này chứa phương pháp tìm đường từ điểm start đến vị
             // trí màu đỏ trên ma trận
-//            BFS(maze, 10, 0, 15, 10);
 
             Queue<Integer> Path = new LinkedList<Integer>();
             SearchPath(maze, 10, 0, Path);
 
 
         }
-
-//        class Node
-//        {
-//            int x, y;
-//
-//            Node(int x, int y)
-//            {
-//                this.x = x;
-//                this.y = y;
-//            }
-//        }
-//
-//        public boolean Valid(int[][] maze, boolean visited[][], int row, int col)
-//        {
-//            return (row >= 0) && (row <= maze.length) && (col >= 0) && (col < maze[0].length) && !visited[row][col];
-//        }
-//
-//        public void BFS(int[][] maze,int XStart, int YStart, int XEnd,int YEnd)
-//        {
-//            boolean[][] visited = new boolean[maze.length][maze[0].length];
-//
-//            Queue<Node> queue = new ArrayDeque();
-//
-//            visited[XStart][YStart] = true;
-//            queue.add(new Node(XStart, YStart));
-//
-//            while (!queue.isEmpty())
-//            {
-//                Node node = queue.poll();
-//
-//                XStart = node.x;
-//                YStart = node.y;
-//
-//                if(XStart == XEnd && YStart == YEnd)
-//                {
-//                    break;
-//                }
-//
-//                if(Valid(maze, visited, XStart + 1, YStart + 0))
-//                {
-//                    visited[XStart + 1][YStart + 0] = true;
-//                    queue.add(new Node(XStart + 1, YStart + 0));
-//                }
-//
-//                if(Valid(maze, visited, XStart - 1, YStart + 0))
-//                {
-//                    visited[XStart - 1][YStart + 0] = true;
-//                    queue.add(new Node(XStart - 1, YStart + 0));
-//                }
-//
-//                if(Valid(maze, visited, XStart + 0, YStart - 1))
-//                {
-//                    visited[XStart + 0][YStart - 1] = true;
-//                    queue.add(new Node(XStart + 0, YStart - 1));
-//                }
-//
-//                if(Valid(maze, visited, XStart + 0, YStart + 1))
-//                {
-//                    visited[XStart + 0][YStart + 1] = true;
-//                    queue.add(new Node(XStart + 0, YStart + 1));
-//                }
-//            }
-//        }
-
+        
+        //bài này em sử dụng thuật toán BFS nhưng em sử dụng chưa triệt để cho lắm. Sau này em sẽ tự fix lại sau.
         public boolean SearchPath(int[][] maze, int x, int y, Queue<Integer> Path)
         {
             if (maze[x][y] == 2)
