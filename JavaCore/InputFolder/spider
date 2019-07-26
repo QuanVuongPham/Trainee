@@ -1,0 +1,21 @@
+Mối quan hệ nhiều-nhiều xảy ra khi tồn tại hai mối quan hệ một-nhiều ở cả hai hƣớng của quan
+hệ giữa hai thực thể. Hai thực thể có mối quan hệ nhiều-nhiều nễu mỗi thể hiện của thực thể này
+có liên kết với nhiều thể hiện của thực thể khác. Ví dụ mối quan hệ giảng dạy giữa giảng viên và
+môn học là mối quan hệ nhiều nhiều vì một giảng viên có thể dạy nhiều môn học và một môn học
+có thể đƣợc giảng dạy bởi nhiều giáo viên. Một ví dụ khác, mối quan hệ có hẹn gặp giữa nhân
+viên với khách hàng là mối quan hệ nhiều nhiều vì một nhân viên có thể có hẹn gặp với nhiều
+nhân viên và một khách hàng có thể có hẹn gặp với nhiều nhân viên. Mối quan hệ nhiều nhiều
+đƣợc biểu diễn bằng các ký hiệu nhiều (chân chim, N, hoặc dấu sao *) ở hai đầu của đƣờng thẳng
+biểu diễn mỗi quan hệ. Mối quan hệ nhiều-nhiều có thể đƣợc thay thế băng hai mối quan hệ một
+nhiều tới một thực thể trung gian đƣợc thêm vào. Hình 2.6 là ví dụ minh họa biểu diễn mối quan
+hệ nhiều-nhiều giữa nhân viên và khách hàng.
+Ngông ngữ mô hình hóa thống nhất UML sử dụng cá lớp để biểu diễn các cấu trúc dữ liệu. Lịch
+sử phát triển của UML gắn liền với sự phán triển của kỹ nghệ phát triển phầm mềm hƣớng đối
+tƣợng ở đó dữ liệu và chức năng đƣợc đóng gói trong các đối tƣợng. Cách tiếp cận hƣớng đối
+tƣợng tƣơng phản với cách tiếp cận truyền thống ở đó dữ liệu đƣợc tách rời với chức năng.
+Tiếp cận hƣớng đối tƣợng là động lực cho phát triển các kỹ thuật sơ đồ hóa mới. Tuy
+nhiên, sự ra đời của các kỹ thuật sơ đồ hóa mới làm nảy sinh nhiều vần đề do sự không tƣơng
+thích giữa các kỹ thuật này. Ngôn ngữ mô hình hóa thống nhất UML ra đới với mục tiêu cung
+cấp một công cụ thống nhất cho các nhà phát triển hệ thống. Trong UML, chúng ta sẽ làm việc
+với các lớp và sơ đồ lớp. Khái niệm lớp trong mô hình UML khá tƣơng tự với khái niệm thực thể
+trong mô hình thực thể-liên kết. UML là một trong những công cụ cơ bản để cấu trúc hóa dữ liệu.

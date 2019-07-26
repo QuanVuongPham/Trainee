@@ -1,0 +1,24 @@
+Thực thể đƣợc định nghĩa là một sự vật đƣợc xác định phân biệt. Ví dụ đội kinh doanh, đại lý
+kinh doanh, đơn hàng, khách hàng… là các thực thể. Các ví dụ cụ thể của các thực thể đƣợc gọi
+là các thể hiện (instance). Ví dụ, thực thể khách hàng có các khách hàng cụ thể là Nguyễn Văn A,
+Trần Thị B… là các thể hiện cụ thể của thực thể khách hàng. Khi mô hình hóa dữ liệu, các thực
+thể đƣợc xác định nhƣ là lớp chứa cho các thể hiện cụ thể. Khi mô hình hóa dữ liệu, việc xác định
+các thực thể không phải là công việc rõ ràng. Nhiệm vụ của ngƣời thiết kế là chuyển dịch các thể
+hiện cụ thể gặp phải trong miền quản lý thành các mô tả thực thể. Ngƣời thiết kế phải ra các
+quyết định phù hợp về việc biểu diễn các thể hiện cụ thể trong các thực thể nào. Ví dụ, anh
+Nguyễn Văn A vừa có thể là một thể hiện của thực thể Ngƣời, thực thể Khách Hàng và thực thể
+Nhân Viên. Trong sơ đồ thực thể quan hệ, các thực thể đƣợc biểu diễn bằng một hình chữ nhật
+với tên của thực thể ở bên trong hình chữ nhật nhƣ ở Hình 2.1
+Vị trí sắp đặt của các thực thể trong sơ đồ thực thể quan hệ không mang hàm ý gì. Nói một cách
+khác, các thực thể có thể đƣợc đặt ở vị trí tùy ý trong sở đồ thực thể quan hệ. Thông thƣờng, tên
+của thực thể thƣờng đƣợc để ở số ít cho dù chúng ta đang mô hình hóa thực thể cho nhiều thể
+hiện cụ thể. Để phân biệt với cách viết tên các thuộc tính đƣợc mô tả ở phần sau, tên của thực thể
+thƣờng viết bằng chữ in đậm với chữ cái đầu tiên của mỗi từ đƣợc viết hoa.
+Các thể hiện của các thực thể đƣợc lƣu trong các bảng đặc biệt của các cơ sở dữ liệu gọi
+là các bảng quan hệ (R-Table) hay còn gọi là quan hệ. Ngày nay, có rất nhiều hệ thống cơ sở dữ
+liệu là các cơ sở dữ liệu quan hệ đƣợc xây dựng dựa trên các cấu trúc bảng quan hệ. Trong mô
+hình thực thể quan hệ, mỗi thực thể tƣơng ứng với một bảng quan hệ duy nhất. Bảng quan hệ có
+tên giống với thực thể trong mô hình thực thể quan hệ với một số lƣu ý là: a) tên trong bảng quan
+hệ thƣờng viết thƣờng; b) không sử dụng các dấu cách giữa các từ và thƣờng đƣợc thay thế bằng
+dấu gạch dƣới (_). Ví dụ, tên các bảng quan hệ tƣơng ứng với các thực thể ở hình 2.1 là:
+đon_hang, khach_hang, san_pham.

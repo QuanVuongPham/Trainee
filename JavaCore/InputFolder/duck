@@ -1,0 +1,28 @@
+Khi ngƣời dùng của hệ thống thông tin quản lý phải xử lý quá nhiều thông tin thì họ rơi vào trạng
+thái quá tải thông tin là trạng thái tinh thần ở đó việc cung cấp thêm thông tin cho ngƣời dùng sẽ
+trở thành có hại và không đem lại lợi ích cho quá trình xét đoán. Vấn đề quá tải thông tin là một
+chủ đề quan trọng trong thiết kế hệ thống thông tin quản lý. Các nghiên cứu trong lĩnh vực tâm lý
+học đã chỉ ra các giới hạn về năng lực xử lý thông tin của cong ngƣời. Ví dụ, bộ nhớ ngắn hạn
+của não ngƣời chỉ có thể ghi nhớ tối đa khoảng 7 kỹ hiệu khác nhau. Năng lực giới hạn trong xử
+lý thông tin của con ngƣời cần đƣợc xem xét cẩn thận trong thiết kế hệ thống thông tin. Một hệ
+thống thông tin quản lý tốt sẽ tránh cho ngƣời dùng rơi vào trạng thái quá tải thông tin khi sử
+dụng hệ thống đƣợc đánh giá bằng khả năng ngăn chặn cung cấp các dữ liệu không liên quan đến
+ngƣời dùng. Các nghiên cứu tâm lý đã chỉ ra ba vấn đề quan trọng liên quan đến giới hạn xử lý
+thông tin của con ngƣời mà khi thiết kế hệ thống thông tin các vấn đề này cần đƣợc xem xét cẩn
+trọng:
+1) Khả năng quét nhanh thông tin của ngƣời dùng là giới hạn. Do đó, sự chú ý của ngƣời
+dùng đối với dữ liệu phụ thuộc vào yếu tố sở thích cá nhân. Nhƣ vậy, ngƣời thiết kế hệ
+thống không thể giả định là khi dữ liệu đƣợc trình bày đến ngƣời dùng thì chúng sẽ ngay
+lập tức nhận đƣợc sự chú ý từ phía ngƣời dùng.
+2) Do khả năng tập trung chú ý của ngƣời dùng là hữu hạn, nên càng nhiều dữ liệu đƣợc
+trình bày tới ngƣời dùng thì càng ít khả năng từng phần dữ liệu sẽ nhận đƣợc sự chú ý của
+ngƣời dùng.
+3) Càng nhiều dữ liệu đƣợc trình bày tới ngƣời dùng thì sự mất cân bằng trong sự chú ý của
+ngƣời dùng với các phần dữ liệu khác nhau càng tăng. Nói cách khác, phân bổ sự chú ý
+của ngƣời dùng với các phần dữ liệu khác nhau là không đồng đều. Ví dụ, khi nhiều dữ
+liệu đƣợc trình bày tới ngƣời dùng, thì ngƣời dùng thì sự chú ý của ngƣời dùng đối với
+phần dữ liệu đầu tiên và phần dữ liệu cuối cùng sẽ khác nhau.
+Từ các đặc điểm trên, ngƣời thiết kế hệ thống thông tin cần phải thiết kế hệ thống sao cho tiết
+kiệm năng lực xử lý thông tin của con ngƣời và định hƣớng đƣợc sự chú ý của ngƣời dùng đối
+với thông tin trình bày thông qua cá kỹ thuật, nguyên tắc thiết kế. Các kỹ thuật tổng hợp dữ liệu
+và trực quan hóa thƣờng đƣợc sử dụng để đạt đƣợc các mục tiêu này.

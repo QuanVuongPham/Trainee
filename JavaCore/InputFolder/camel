@@ -1,0 +1,25 @@
+Mỗi thực thể có các đặc tính riêng biệt đƣợc gọi là các thuộc tính của thực thể. Một thuộc tính là
+một tính chất của thực thể, một đặc tính xác định phân biệt mà tất cả các thể hiện của thực thể có
+thể có. Ví dụ, thuộc tính Tên của thực thể Khách Hàng, thuộc tính Giá của thực thể Sản Phẩm.
+Các thuộc tính của thực thể có miền giá trị xác định đặc tả thuộc tính của thực thể. Khi một thuộc
+tính của một thể hiện không đƣợc gán giá trị có nghĩa là thuộc tính đó bị thiếu giá trị hay có giá
+trị NULL.
+Trong sơ đồ thực thể quan hệ, các thuộc tính đƣợc biểu diễn ký hiệu bằng các hình ellipse
+ở đó mỗi hình ellipse tƣơng ứng với duy nhất một thuộc tính. Hình 2.2 minh họa ví dụ về biểu
+diễn các thuộc tính trong sơ đồ thực thể quan hệ.
+Tên của các thuộc tính đƣợc viết thƣờng để phân biệt với tên thực thể. Việc biểu diễn các thuộc
+tính bằng các hình ellipse có nhƣợc điểm là chiếm nhiều không gian. Khi số lƣợng thuộc tính
+tăng lên thì ngƣời thiết kế sẽ gặp khó khăn trong việc biểu diễn các thuộc tính. Do đó, một số các
+phƣơng pháp biểu diễn thuộc tính khác đƣợc đề xuất để khắc phục nhƣợc điểm này.
+Bảng quan hệ đảm bảo biểu diễn đƣợc các thuộc tính của các thể hiện. Biểu diễn của bảng
+quan hệ tuân theo các luật sau:
+ Các cột: Các cột của bảng quan hệ phải biểu diễn các thuộc tính của thực thể. Mỗi cột có
+tên cột để xác định cột trong bảng quan hệ. Tên của cột phải duy nhất. Thứ tự của cột
+trong bảng là tùy ý.
+ Các hàng: Các cột biểu diễn một thể hiện của thực thể với mỗi hàng tƣơng ứng với một
+thực thể. Các hàng không đƣợc đặt tên nhƣ các cột và thứ tự các hàng cũng tùy ý.
+ Trùng lặp các hàng: Không đƣợc phép tồn tại hai hàng có giá trị trùng lặp hoàn toàn do
+mỗi hàng biểu diễn duy nhất một thực thể.
+ Các khóa chính: Để tránh việc trùng lặp hàng xảy ra, một cột định danh đƣợc thêm vào để
+đảm bảo mỗi hàng đƣợc xác định duy nhất. Cột này gọi là khóa chính và thƣờng đƣợc
+thiết kế có giá trị là số nguyên tự động tăng khi một hàng mới đƣợc thêm vào.v

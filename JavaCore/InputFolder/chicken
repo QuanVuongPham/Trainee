@@ -1,0 +1,24 @@
+Sơ đồ lớp là một phiên bản khác của sơ đồ ER và UML sử dụng thuật ngữ khác cho các thực thể
+và liên kết. Trong UML, thực thể đƣợc thay thế bằng lớp. Một lớp có thể chứa nhiều đối tƣợng
+nên đối tƣợng có thể so sánh với các thể hiện của sơ đồ ER.
+Cho dù có sự khác biệt về thuật ngữ, sơ đồ lớp có rất nhiều điểm giống với sơ đồ ER.
+Biểu diễn đồ họa của một lớp giống với một thực thể, là hình chữ nhật. Biểu diễn một sự kết hợp
+cũng giống với biểu diễn liên kết trong sơ đồ ER, là một đƣờng thẳng nối các hình chữ nhật.
+Để biểu diễn các thuộc tính của các lớp, hình chữ nhật biểu diễn lợp đƣợc chia làm hai
+phần, phần phía trên ghi tên của lớp và phần phía dƣới ghi danh sách các thuộc tính của lớp. Kiểu
+của thuộc tính cũng có thể đƣợc định nghĩa đƣợc tách biệt với tên thuộc tính bởi dấu hai chấm.
+Hình 3.1 minh họa một lớp trong UML.
+Một trong những ƣu điểm của biểu diễn thuộc tính của lớp trong UML so với sơ đồ ER là nhiều
+thuộc tính có thể đƣợc biểu diễn hiệu quả trong biểu diễn lớp.
+Sơ đồ lớp sử dụng số tối đa và thối thiểu để ký hiệu lực lƣợng của sự kết hợp giữa hai lớp
+(một-một, một-nhiều). Ở cuối của biểu diễn sự kết hợp, các số tối thiểu và tối đa của lực lƣợng sẽ
+đƣợc viết. Biểu tƣợng dấu sao (*) chỉ thị “Nhiều” hoặc “Không giới hạn”. Cách biểu diễn rút
+gọn lực lƣợng của quan hệ cũng có thể đƣợc sử dụng: Chỉ có dấu sao (*) tƣơng đƣơng với 0..*,
+chỉ có số 1 tƣơng đƣơng với 1..1, không có các số tƣơng đƣơng với 1..1 hoặc 0..1. Hình 3.2 minh
+họa ví dụ biểu diễn lực lƣợng của kết hợp trong UML.
+Sơ đồ lớp UML có một loại phần tử không có trong sở đồ ER đó là phương thức. Một
+phƣơng thức mô tả một hành vi nào đó mà một thực thể có thể thực hiện. Ví dụ, một đối tƣợng
+nhân viên kinh doanh có thể tạo đơn hàng. Hành vi tạo đơn hàng sẽ là một phƣơng thức. Trong
+các hệ thống hƣớng đối tƣợng, các đối tƣợng tƣơng tác với nhau bằng cách gọi các phƣơng thức
+của đối tƣợng. Các phƣơng thức đƣợc biểu diễn bằng thêm hình chữ nhật vào biểu diễn lớp và
+liệt kê tên các phƣơng thức. Hình 3.3 minh họa một lớp với các phƣơng thức.

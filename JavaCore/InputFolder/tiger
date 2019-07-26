@@ -1,0 +1,43 @@
+Các thuộc tính có các kiểu giá trị khác nhau tùy thuộc vào thông tin biểu diễn của thuộc tính. Ví
+dụ, tên của một sản phẩm là một sâu ký tự, năm sản xuất có thể là một số nguyên v.v. Sau đây là
+danh sách các kiểu dữ liệu của thuộc tính:
+ Kiểu số: Giá trị là các số và có thể đƣợc xác định chi tiết là kiểu số nguyên, số thực. Ví
+dụ, số lƣợng sản phẩm đƣợc bán, giá của một sản phẩm.
+Sản Phẩm Khách Hàng
+tên
+giá
+tên
+ngày sinh
+Mô hình hóa dữ liệu với mô hình thực thể liên kết
+14
+ Kiểu văn bản: Giá trị là các văn bản tự do không xác định trƣớc. Trong các hệ quản trị cơ
+sở dữ liệu, các kiểu string, varchar đƣợc sử dụng. Ví dụ, tên của khách hàng, tên của sản
+phẩm .
+ Kiểu phân loại: Các giá trị không phải số, đƣợc định nghĩa trƣớc. Ví dụ, loại sản phẩm
+với các giá trị Điện tử, Gia dụng, Thiết bị văn phòng…
+ Kiểu logic Đúng/Sai: Gồm hai giá trị đúng/sai (True/False). Ví dụ, tình trạng có sẵn của
+sản phẩm trong kho có thể nhận hai giá trị là Đúng hoặc Sai.
+Một kiểu thuộc tính đặc biệt là nhãn thời gian, nhẵn thời gian có thể là ngày hoặc thời gian ở đó
+một sự kiện xảy ra. Sự kiện là thuộc tính và nhãn thời gian là giá trị. Ví dụ, một đơn hàng đƣợc
+tạo trong một ngày cụ thể, hàng hóa đƣợc gửi vào ngày cụ thể v.v. Các nhẵn thời gian đƣợc sử
+dụng trong hệ thống thông tin quản lý cho các phân tích liên quan đến thời gian. Ví dụ, nhẵn thời
+gian có thể đƣợc sử dụng để so sách tổng khối lƣợng bán hàng của năm nay so với năm trƣớc,
+tháng này so với tháng trƣớc. Dó đó, thông tin thời gian cần đƣợc ghi chính xác trong hệ thống.
+Một số kiều dữ liệu có thể đƣợc sử dụng cho nhãn thời gian nhƣ sau:
+ Ngày trong tuần: Các ngày trong tuần Thứ hai, Thứ ba, Thứ tư, Thứ năm, Thứ sáu, Thứ
+bảy, Chủ nhật được biểu diễn với các kiểu giá trị phân loại hoặc bằng kiểu số
+ Ngày trong tháng: Có giá trị nằm trong khoảng từ 1 đến 28, 29, 30 hoặc 31 tùy thuộc vào
+từng tháng. Các ngày trong tháng đƣợc biểu diễn bằng kiểu số.
+ Tuần trong năm: Có giá trị nằm trong khoảng từ 1 đến 52 hoặc 53 tùy vào từng năm. Các
+tuần trong năm thƣờng đƣợc biểu diễn bằng kiểu số.
+ Tháng trong năm: Có giá trị nằm trong khoảng từ 1 đến 12. Các tháng trong năm thường
+được biểu diễn bằng kiểu số hoặc kiểu phân loại.
+ Năm: Năm dƣơng lịch
+ Thời gian: Biểu diễn thời gian cụ thể trong ngày. Ví dụ, 7:00. Trong một vài trƣờng hợp,
+giây và mili giây đƣợc sử dụng nếu cần thiết.
+ Ngày: Kết hợp kiểu ngày, tháng và năm
+ Nhãn thời gian: Kết hợp kiểu ngày và thời gian
+Với các nhãn thời gian, cần phải phân biệt giữa kiểu thuộc tính và định dạng thuộc tính. Định
+dạng thuộc tính là cách giá trị thuộc tính đƣợc trình bày tới ngƣời dùng và không quyết định cách
+thức giá trị thuộc tính đƣợc lƣu trong hệ thống. Ví dụ về định dạng ngày ở Mỹ đƣợc trình bày là
+MM/DD/YYYY còn ở châu Âu, Việt Nam là DD/MM/YYYY.

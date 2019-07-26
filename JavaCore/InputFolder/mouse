@@ -1,0 +1,25 @@
+Thiết kế nói chung là quá trình sắp xếp các phần tử của hệ thống thông tin vào một cấu trúc. Kết
+quả của quá trình này là một bản thiết kế hệ thống. Thiết kế hệ thống thông tin quản lý nhằm định
+hình các dữ liệu từ các hệ thống giao dịch vào hệ thống thông tin quản lý để hỗ trợ quá trình ra
+quyết định quản lý. Khái niệm thiết kế có thể đƣợc hiểu khác nhau ở các mức khác nhau bởi các
+chuyên gia khác nhau. Sau đây, chúng ta tìm hiểu một số cách nhìn khác nhau về thiết kế.
+Các giải pháp thiết kế cho các bài toán: Sự khái niệm hóa mức cao của vấn đề thiết kế thì việc
+giải quyết vấn đề có thể đƣợc chia làm ba giai đoạn: tƣ duy, thiết kế và lựa chọn. Ở giai đoạn tƣ
+duy, ngƣời thiết kế khám và và phân tích vấn đề. Trong giai đoạn thiết kế, ngƣời thiết kế phát
+triển các giải pháp có thể. Trong gian đoạn lựa chọn, giải pháp phù hợp nhất sẽ đƣợc lựa chọn.
+Chúng ta có thể coi toàn bộ việc phát triển hệ thống thông tin quản lý là một giải pháp đối với bài
+toán quản lý.
+Thiết kế các cấu trúc dữ liệu: Một cách nhìn hẹp hơn về vấn đề thiết kế là hoạt động phân tích
+các cấu trúc dữ liệu và thiết kế các mô hình dữ liệu. Thiết kế các cấu trúc dữ liệu là một phần
+quan trọng trong thiết kế hệ thống thông tin quản lý. Ngƣời thiết kế phải đặc biệt chú ý trong xây
+dựng cấu trúc các tập dữ liệu phục vụ ra quyết định quản lý.
+Thiết kế các truy vấn cơ sở dữ liệu: Hoạt động thiết kế truy vấn tập trung vào việc việc tạo các
+truy vấn cơ sở dữ liệu nhằm lấy các dữ liệu cho ngƣời dùng. Xây dựng cấu trúc các truy vấn là
+một phần quan trọng trong thiết kế hệ thống thông tin quản lý.
+Thiết kế các báo cáo quản lý: Hoạt động thiết kế này tập trung vào sản phẩm cuối của hệ thống
+thông tin quản lý là việc tạo ra các báo cáo quản lý. Hoạt động thiết kế này liên quan đến các lựa
+chọn thiết kế liên quan đến bố trí trực quan của dữ liệu nhƣ việc lựa chọn biểu diễn dữ liệu dƣới
+dạng bảng hay sơ đồ.
+Thiết kế chức năng hệ thống: Thiết kế chức năng hệ thống nhằm xác định các chức năng của hệ
+thống thông tin. Hoạt động này thƣớc bao gồm cả hoạt động thiết kế dữ liệu đƣợc đề cấp ở phần
+trƣớc.

@@ -1,0 +1,24 @@
+Trong quá trình mô hình hóa, trong nhiều trƣờng hợp các thực thể có nhiều thuộc tính chung
+giống nhau. Ví dụ nhân viên kinh doanh và nhân viên kế toán đều là các nhân viên nên sẽ có một
+số thuộc tính chung nhƣ tên, tuổi, ngày sinh v.v. Ngoài các thuộc tính chung giống nhau, các thực
+thể còn có các thuộc tính riêng khác nhau. Kỹ thuật tổng quát hóa của UML cho phép mô hình
+hóa hiệu quả các trƣờng hợp trên. Kỹ thuật tổng quát hóa sắp xếp các lớp vào một cây ở đó các
+lớp tổng quát hơn sắp xếp ở trên và các lớp cụ thể đƣợc sắp xếp ở bên dƣới. Hình 3.4 minh họa ví
+dụ tổng quát hóa.
+Lớp cụ thể hơn gọi là các lớp phụ (subclass) hoặc lớp con (child class) và lớp tổng quát hơn gọi
+là lớp cha (super class, parent class). Mỗi lớp con là một loại đặc biệt của lớp cha. Ví dụ, nhân
+viên bán hàng là một loại đặc biệt của nhân viên. Sử dụng kỹ thuật tổng quát hóa cho phép chúng
+ta xác định các thuộc tính nào thì đƣa vào lớp tổng quát và thuộc tính nào đƣợc mô hình trong lớp
+cụ thể. Chúng ta nói rằng, các lớp con sẽ thừa kế các thuộc tính từ lớp cha do đó tránh đƣợc việc
+mô hình hóa các thuộc tính nhiều lần ở nhiều lớp. Hình 3.5 minh họa ví dụ về thừa kế thuộc tính.
+Các thông tin về vòng đời của các thực thể đóng vai trò quan trọng trong thiết kế hƣớng đối
+tƣợng. Ví dụ, trong quy trình bán hàng, một khách hàng thƣờng trải qua một số giai đoạn xác
+định từ xác định khách hàng tiềm năng, đến khách hàng triển vọng sau đó đến khách hàng thực
+sự. Ngƣời quản lý bán hảng phải quan tâm đến dịch chuyển trạng thái, ví dụ nhƣ bao nhiêu khách
+hàng triển vọng đã trở thành khách hàng thực sự, để có chính sách tiếp cận khách hàng phù hợp.
+Một sơ đồ lớp không xem xét một cách rõ ràng các thuộc tính nào của các thực thể có thể
+thay đổi theo thời gian. Thực tế, các thực thể có thể thay đổi thành các thực thể khác theo thời
+gian. Thực thể có nhiều trạng thái và các trạng thái có các dịch chuyển, Các trạng thái và dịch
+chuyển có thể đƣợc biểu diễn bằng sơ đồ dịch chuyển trạng thái. Giống nhƣ sơ đồ lớp, sơ đồ dịch
+chuyển trạng thái là một phần của UML. Hình 3.6 mô hình dịch chuyển từ trạng thái liên lạc đến
+khi trở thành một khách hàng thực sự.

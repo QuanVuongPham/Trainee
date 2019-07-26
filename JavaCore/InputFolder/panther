@@ -1,0 +1,24 @@
+Các thực thể là thành phần quan trọng của mô hình dữ liệu nhƣng chúng không tồn tại độc lập.
+Mối quan hệ giữa các thực thể đóng vai trò quan trọng và cung cấp thông tin hữu ích đến ngời
+dùng. Ví dụ, ngƣời quản lý muốn biết đại lý bán hàng nào đƣợc quản lý bởi tổ bán hàng nào;
+Nhân viên nào làm ở phòng nào. Các mối quan hệ này cần phải đƣợc mô hình hóa.
+Sơ đồ ER biểu diễn một mối quan hệ bằng một đƣờng thẳng nối hai thực thể. Các mối
+quan hệ có thể có tên và tên đƣợc hiển thị trong hình thoi hoặc gần đƣờng thẳng nối hai thực thể
+Mô hình hóa dữ liệu với mô hình thực thể liên kết
+15
+nhƣ ví dụ trong Hình 2.3. Các đƣờng biểu diễn mối quan hệ có thể có các đặc trƣng khác biểu
+diễn loại mối quan hệ. Trƣờng hợp chỉ có đƣờng thẳng nối hai thực thể biểu diễn loại mối quan
+hệ một-một ở đó mỗi thể hiện của thực thể này liên kết với một thể hiện của thực thể còn lại.
+Trong ví dụ về mối quan hệ giữa các thực thể Đơn Hàng và Sản Phẩm ở trên, thực tế mỗi đơn
+hàng có thể chứa thông tin nhiều hơn một sản phẩm. Do đó, mối quan hệ một-một là không đầy
+đủ trong trƣờng hợp này. Mối quan hệ giữa các thực thể Đơn Hàng và Sản Phẩm trong ví dụ này
+là mối quan hệ một-nhiều. Nhƣ vậy, khi mỗi thể hiện của thực thể này liên kết với nhiều thể hiện
+của thực thể khác ta nói giữa hai thực thể có một mối quan hệ một-nhiều. Mối quan hệ một-nhiều
+đƣợc biểu diễn bằng cách thêm vào các ký hiệu ở cuối của đƣờng thẳng nối hai thực thể ở phía
+đầu nhiều. Các ký hiệu có thể là chữ N, dấu sao (*) hoặc hình chân chim nhƣ Hình 2.4.
+Để biểu diễn tùy chọn của về số lƣợng thể hiện của các thực thể tại các đầu của đƣờng thẳng biểu
+diễn mối quan hệ giữa hai thực thể:
+ Hình tròn biểu diễn sự cho phép số lƣợng thể hiện bằng không
+ Nét xổ đứng biểu diễn sự bắt buộc số lƣợng thể hiện ít nhất là một.
+Hình 2.5 minh họa biểu diễn các mối quan hệ với các biểu diễn về tùy chọn lực lƣợng của mối
+quan hệ.

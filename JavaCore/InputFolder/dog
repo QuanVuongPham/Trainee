@@ -1,0 +1,28 @@
+Hệ thống thông thông tin của một tổ chức thƣờng đƣợc phân làm hai loại là hệ thống hỗ trợ điều
+hành và hệ thống hỗ trợ quản lý. Các phân loại có mục tiêu và chức năng khác nhau.
+Các hệ thống xử lý giao dịch hỗ trợ các hoạt động thƣờng xuyên của một tổ chức hỗ trợ thu
+nhận và xử lý các dữ liệu từ các giao dịch nghiệp vụ. Hệ thống xử lý giao dịch thuộc loại hệ
+thống hỗ trợ điều hành. Dữ liệu thƣờng đƣợc xử lý theo hai cách cơ bản: xử lý theo lô và xử lý
+thời gian thực. Trong hệ thống xử lý theo lô, các dữ liệu giao dịch đƣợc tích lũy theo thời gian và
+xử lý định kỳ. Với các hệ thống xử lý thời gian thực, dữ liệu đƣợc xử lý ngay lập tức sau khi giao
+dịch xảy ra. Các dữ liệu nhƣ đơn hàng, sản phẩm và kế toán đƣợc nhập vào hệ thống hàng ngày.
+Các dữ liệu này đƣợc sử dụng để cung cấp các thông tin cho các các nhân viên làm việc trong tổ
+chức. Ví dụ, phòng kinh doanh trong một công ty sẽ nhập các dữ liệu về đơn hàng vào trong hệ
+thống xử lý giao dịch. Các nhân viên phòng tài chính sẽ sử dụng các dữ liệu về đơn hàng để tạo
+ra các hóa đơn. Phòng kế toán sẽ sử dụng dữ liệu hóa đơn để cập nhật sổ cái thu chi.
+Hệ thống thông tin quản lý cung cấp hỗ trợ cho việc ra các quyết định chiến thuật và
+chiến lƣợc tới ngƣời quản lý và các chuyên gia nghiệp vụ. Các thông tin cung cấp bởi hệ thống
+này không ảnh hƣởng tới các hoạt động ngắn hạn nhƣng tạo cơ sở cho các quyết định dài hạn ảnh
+hƣởng sâu rộng hơn đến các hoạt động của tổ chức. Trọng tâm của các hệ thống thông tin quản lý
+là tổng kết và phân tích dữ liệu giao dịch để hỗ trợ ra quyết định quản lý hiệu quả.
+Trong các tổ chức có quy mô nhỏ, hệ thống xử lý giao dịch kiêm luôn chức năng hệ thống
+thông tin quản lý. Cho dù các hệ thống xử lý giao dịch không đƣợc thiết kế riêng cho mục đích
+quản lý, hầu hết các hệ thống xử lý giao dịch cung cấp nhiều loại báo cáo quản lý. Các nhà quản
+lý và nhân viên dùng chung một hệ thống. Hình 1 minh họa tổ chức hệ thống kiểu này. Cách tổ
+chức hệ thống kiểu này sẽ nhanh chóng bị mất kiểm soát khi quy mô tổ chức tăng lên vì các lý do
+liên quan đến đặc tính dữ liệu và đặc tính kỹ thuật. Trong trƣờng hợp quy mô tổ chức tăng lên, hệ
+thống sẽ đƣợc sử dụng bởi nhiều nhân viên thƣờng xuyên cập nhật dữ liệu dẫn đến thông tin bị
+thay đổi thƣờng xuyên. Về mặt kỹ thuật, việc phân tích dữ liệu để tìm kiếm các thông tin phức
+tạp thƣờng đòi hỏi năng lực tính toán của hệ thống. Dó đó, nếu ngƣời quan lý thƣờng xuyên thực
+hiện các phân tích dữ liệu phức tạp sẽ gây giảm hiệu năng của hệ thống xử lý giáo dịch dùng
+chung

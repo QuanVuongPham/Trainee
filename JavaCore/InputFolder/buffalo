@@ -1,0 +1,24 @@
+Trong các chƣơng trƣớc, chúng ta đã tìm hiểu phƣơng pháp mô hình hóa dữ liệu quản lý. Các mô
+hình dữ liệu sẽ đƣợc cài đặt lƣu trữ trong các bảng quan hệ là nền tảng bên dƣới của hệ thống
+thông tin quản lý.
+Quá trình lấy dữ liệu từ các bảng gọi là truy vấn. Chƣơng này sẽ giải thích các vấn đề cơ
+bản của truy vấn dữ liệu. Truy vấn dữ liệu đƣợc thực hiện thông qua cung cấp các chỉ dẫn tới hệ
+quản trị cơ sở dữ liệu. Các câu lệnh đƣợc xây dựng dử dụng một ngôn ngữ thao tác với các bảng
+dữ liệu là ngông ngữ hỏi có cấu trúc SQL. Ngoài việc nhập trực tiếp các câu lệnh SQL, chúng ta
+có thể sƣ dụng các công cụ trực quan để xây dựng truy vấn, các công cụ này có nhiệm vụ chuyển
+đổi chỉ dẫn của ngƣời dụng dƣới dạng trực quan thành các phát biểu SQL.
+Trong phần trƣớc, chugns ta đã tìm hiểu việc nối hai bảng với quan hệ một-nhiều. Trong nhiều
+trƣờng hợp, một bảng có chứa nhiều hơn một khóa ngoại và có thể thực hiện phép nối trên nhiều
+hơn hai bảng. Cụ thể, trong các quan hệ nhiều-nhiều, một bảng trung gian đƣợc sử dụng để biểu
+diễn mối quan hệ nhiều-nhiều và chứa nhiều hơn một khóa ngoại. Ví dụ, bảng dữ liệu về chi tiết
+đơn hàng chi_tiet_don_hang tạo quan hệ giữa đơn hàng và sản phẩm và đây là quan hệ nhiềunhiều. Do đó, nếu muốn hiển thị thông tin về chi tiết đơn hàng sẽ cần dữ liệu từ bảng lƣu dữ liệu
+đơn hàng và bảng lƣu dữ liệu về sản phẩm. Trong ví dụ này, nếu chúng ta nối bảng dữ liệu đơn
+hàng và bảng dữ liệu nhân viên bán hàng để hiện thị tên nhân viên bán hàng trong các đơn hàng,
+thì cũng có thể hiển thị khóa ngoại của nhóm bán hàng mà nhân viên bán hàng thuộc nhóm đó.
+Do đó, nếu chúng ta muốn hiển thị thêm thông tin về tên của nhóm bán hàng thì cần phải thực
+hiện phép nối khác với bảng dữ liệu chứa thông tin về nhóm bán hàng.
+Khi thực hiện nối các thuộc tính thuộc nhiều bảng, tập kết quả có các thuộc tính phi định
+danh liên quan đến bảng khởi tạo. Quá trình này gọi là quá trình giải chuẩn dữ liệu. Trong quá
+trình giải chuẩn, tất cả các khóa ngoại bị loại bỏ từng bƣớc một. Danh sách sau đây trình bày
+cách thức quá trình giải chuản hoạt động và áp dụng vào ví dụ bảng dữ liệu chi tiết đơn hàng
+đƣợc giải chuẩn.
